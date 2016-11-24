@@ -9,11 +9,7 @@
 - "name": "Body_Location_Systems"
   "title":
     "en": "Body Location/Systems"
-  "description":
-    "en": "Refers to sociodemographic and economic characteristics of an individual."
   "terms":
   - "name": "Blood_Heart_Circulation"
     "title":
       "en": "Blood, Heart and Circulation"
-    "description":
-      "en": "Information about current age (e.g. how old are you now?)."
