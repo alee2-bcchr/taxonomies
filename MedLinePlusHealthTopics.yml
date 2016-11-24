@@ -6,15 +6,14 @@
 "author": "MedlinPlus.gov"
 "license": "CC BY-NC-ND 4.0"
 "vocabularies":
-- "name": "Sociodemographic_economic_characteristics"
+- "name": "Body_Location_Systems"
   "title":
-    "en": "Socio-demographic and economic characteristics"
-    "fr": "Caractéristiques socio-démographiques et économiques"
+    "en": "Body Location/Systems"
   "description":
     "en": "Refers to sociodemographic and economic characteristics of an individual."
   "terms":
-  - "name": "Age"
+  - "name": "Blood_Heart_Circulation"
     "title":
-      "en": "Age/birthdate"
+      "en": "Blood, Heart and Circulation"
     "description":
       "en": "Information about current age (e.g. how old are you now?)."
