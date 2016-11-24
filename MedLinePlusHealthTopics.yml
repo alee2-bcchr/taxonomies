@@ -3,8 +3,18 @@
   "en": "MedlinePlus Health Topics"
 "description":
   "en": "Information classification developed by MedlinePlus"
-"author": "MedlinePlus.gov"
+"author": "MedlinPlus.gov"
+"license": "CC BY-NC-ND 4.0"
 "vocabularies":
- -"name": "Body_Location/Systems"
+- "name": "Sociodemographic_economic_characteristics"
   "title":
-    "en": "Body Location/Systems"
+    "en": "Socio-demographic and economic characteristics"
+    "fr": "Caractéristiques socio-démographiques et économiques"
+  "description":
+    "en": "Refers to sociodemographic and economic characteristics of an individual."
+  "terms":
+  - "name": "Age"
+    "title":
+      "en": "Age/birthdate"
+    "description":
+      "en": "Information about current age (e.g. how old are you now?)."
