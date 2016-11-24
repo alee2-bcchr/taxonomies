@@ -1,0 +1,10 @@
+"name": "MedlinePlus_topics"
+"title":
+	"en": "MedlinePlus Health Topics"
+"description":
+	"en": "Information classification developed by MedlinePlus"
+"author": "MedlinePlus.gov"
+"vocabularies":
+	-"name": "Body_Location/Systems"
+		"title":
+			"en": "Body Location/Systems"
