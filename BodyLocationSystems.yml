@@ -12,6 +12,252 @@
   - "name" : "Acute_Lymphocytic_Leukemia"
     "title":
       "en" : "AcuteLymphocytic Leukemia"
+  - "name": "Acute_Myeloid_Leukemia"
+    "title":
+      "en": "Acute Myeloid Leukemia"
+  - "name": "Anatomy"
+    "title":
+      "en": "Anatomy"
+  - "name": "Anemia"
+    "title":
+      "en": "Anemia"
+  - "name": "Aneurysms"
+    "title":
+      "en": "Aneurysms"
+  - "name": "Angina"
+    "title":
+      "en": "Angina"
+  - "name": "Angioplasty"
+    "title":
+      "en": "Angioplasty"
+  - "name": "Aortic_Aneurysm"
+    "title":
+      "en": "Aortic Aneurysm"
+  - "name": "Aplastic_Anemia"
+    "title":
+      "en": "Aplastic Anemia"
+  - "name": "Arrhythmia"
+    "title":
+      "en": "Arrhythmia"
+  - "name": "Arteriovenous_Malformations"
+    "title":
+      "en": "Arteriovenous Malformations"
+  - "name": "Atherosclerosis"
+    "title":
+      "en": "Atherosclerosis"
+  - "name": "Atrial_Fibrillation"
+    "title":
+      "en": "Atrial Fibrillation"
+  - "name": "Behcets_Syndrome"
+    "title":
+      "en": "Behcet''s Syndrome"
+  - "name": "Bleeding"
+    "title":
+      "en": "Bleeding"
+  - "name": "Bleeding_Disorders"
+    "title":
+      "en": "Bleeding Disorders"
+  - "name": "Blood"
+    "title":
+      "en": "Blood"
+  - "name": "Blood_Clots"
+    "title":
+      "en": "Blood Clots"
+  - "name": "Blood_Count_Tests"
+    "title":
+      "en": "Blood Count Tests"
+  - "name": "Blood_Disorders"
+    "title":
+      "en": "Blood Disorders"
+  - "name": "Blood_Pressure_Medicines"
+    "title":
+      "en": "Blood Pressure Medicines"
+  - "name": "Blood_Thinners"
+    "title":
+      "en": "Blood Thinners"
+  - "name": "Blood_Transfusion_and_Donation"
+    "title":
+      "en": "Blood Transfusion and Donation"
+  - "name": "Brain_Aneurysm"
+    "title":
+      "en": "Brain Aneurysm"
+  - "name": "Cardiac_Arrest"
+    "title":
+      "en": "Cardiac Arrest"
+  - "name": "Cardiac_Rehabilitation"
+    "title":
+      "en": "Cardiac Rehabilitation"
+  - "name": "Cardiomyopathy"
+    "title":
+      "en": "Cardiomyopathy"
+  - "name": "Carotid_Artery_Disease"
+    "title":
+      "en": "Carotid Artery Disease"
+  - "name": "Chest_Pain"
+    "title":
+      "en": "Chest Pain"
+  - "name": "Childhood_Leukemia"
+    "title":
+      "en": "Childhood Leukemia"
+  - "name": "Cholesterol"
+    "title":
+      "en": "Cholesterol"
+  - "name": "Chronic_Lymphocytic_Leukemia"
+    "title":
+      "en": "Chronic Lymphocytic Leukemia"
+  - "name": "Chronic_Myeloid_Leukemia"
+    "title":
+      "en": "Chronic Myeloid Leukemia"
+  - "name": "Congenital_Heart_Defects"
+    "title":
+      "en": "Congenital Heart Defects"
+  - "name": "Coronary_Artery_Bypass_Surgery"
+    "title":
+      "en": "Coronary Artery Bypass Surgery"
+  - "name": "Coronary_Artery_Disease"
+    "title":
+      "en": "Coronary Artery Disease"
+  - "name": "CPR"
+    "title":
+      "en": "CPR"
+  - "name": "DASH_Diet"
+    "title":
+      "en": "DASH Diet"
+  - "name": "Deep_Vein_Thrombosis"
+    "title":
+      "en": "Deep Vein Thrombosis"
+  - "name": "Diabetic_Foot"
+    "title":
+      "en": "Diabetic Foot"
+  - "name": "Diabetic_Heart_Disease"
+    "title":
+      "en": "Diabetic Heart Disease"
+  - "name": "Edema"
+    "title":
+      "en": "Edema"
+  - "name": "Endocarditis"
+    "title":
+      "en": "Endocarditis"
+  - "name": "Eosinophilic_Disorders"
+    "title":
+      "en": "Eosinophilic Disorders"
+  - "name": "Gangrene"
+    "title":
+      "en": "Gangrene"
+  - "name": "Giant_Cell_Arteritis"
+    "title":
+      "en": "Giant Cell Arteritis"
+  - "name": "Granulomatosis_with_Polyangiitis"
+    "title":
+      "en": "Granulomatosis with Polyangiitis"
+  - "name": "Heart_Attack"
+    "title":
+      "en": "Heart Attack"
+  - "name": "Heart_Disease_in_Women"
+    "title":
+      "en": "Heart Disease in Women"
+  - "name": "Heart_Diseases"
+    "title":
+      "en": "Heart Diseases"
+  - "name": "Heart_Diseases_Prevention"
+    "title":
+      "en": "Heart Diseases--Prevention"
+  - "name": "Heart_Failure"
+    "title":
+      "en": "Heart Failure"
+  - "name": "Heart_Surgery"
+    "title":
+      "en": "Heart Surgery"
+  - "name": "Heart_Transplantation"
+    "title":
+      "en": "Heart Transplantation"
+  - "name": "Heart_Valve_Diseases"
+    "title":
+      "en": "Heart Valve Diseases"
+  - "name": "Hemophilia"
+    "title":
+      "en": "Hemophilia"
+  - "name": "Hemorrhagic_Stroke"
+    "title":
+      "en": "Hemorrhagic Stroke"
+  - "name": "High_Blood_Pressure"
+    "title":
+      "en": "High Blood Pressure"
+  - "name": "Ischemic_Stroke"
+    "title":
+      "en": "Ischemic Stroke"
+  - "name": "Kawasaki_Disease"
+    "title":
+      "en": "Kawasaki Disease"
+  - "name": "Leukemia"
+    "title":
+      "en": "Leukemia"
+  - "name": "Low_Blood_Pressure"
+    "title":
+      "en": "Low Blood Pressure"
+  - "name": "Lymphedema"
+    "title":
+      "en": "Lymphedema"
+  - "name": "Malaria"
+    "title":
+      "en": "Malaria"
+  - "name": "Metabolic_Panel"
+    "title":
+      "en": "Metabolic Panel"
+  - "name": "Metabolic_Syndrome"
+    "title":
+      "en": "Metabolic Syndrome"
+  - "name": "Mitral_Valve_Prolapse"
+    "title":
+      "en": "Mitral Valve Prolapse"
+  - "name": "Pacemakers_and_Implantable_Defibrillators"
+    "title":
+      "en": "Pacemakers and Implantable Defibrillators"
+  - "name": "Pericardial_Disorders"
+    "title":
+      "en": "Pericardial Disorders"
+  - "name": "Peripheral_Arterial_Disease"
+    "title":
+      "en": "Peripheral Arterial Disease"
+  - "name": "Platelet_Disorders"
+    "title":
+      "en": "Platelet Disorders"
+  - "name": "Pulmonary_Hypertension"
+    "title":
+      "en": "Pulmonary Hypertension"
+  - "name": "Raynauds_Disease"
+    "title":
+      "en": "Raynaud's Disease"
+  - "name": "Rh_Incompatibility"
+    "title":
+      "en": "Rh Incompatibility"
+  - "name": "Shock"
+    "title":
+      "en": "Shock"
+  - "name": "Sickle_Cell_Anemia"
+    "title":
+      "en": "Sickle Cell Anemia"
+  - "name": "Stroke"
+    "title":
+      "en": "Stroke"
+  - "name": "Thalassemia"
+    "title":
+      "en": "Thalassemia"
+  - "name": "Transient_Ischemic_Attack"
+    "title":
+      "en": "Transient Ischemic Attack"
+  - "name": "Triglycerides"
+    "title":
+      "en": "Triglycerides"
+  - "name": "Varicose_Veins"
+    "title":
+      "en": "Varicose Veins"
+  - "name": "Vascular_Diseases"
+    "title":
+      "en": "Vascular Diseases"
+  - "name": "Vasculitis"
+    "title":
+      "en": "Vasculitis"
 - "name": "Bones_Joints_Muscles"
   "title":
     "en": "Bones, Joints and Muscles"
