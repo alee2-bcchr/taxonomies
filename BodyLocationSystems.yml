@@ -1,12 +1,10 @@
----
-name: MedlinePlus_body_systems
-title:
-  en: MedlinePlus Body Location/Systems
-description:
-  en: Information classification developed by MedlinePlus
-author: MedlinPlus.gov
-vocabularies:
-- name: Blood_Heart_Circulation
-  title:
-    en: Blood Heart and Circulation
-...
+"name": "MedlinePlus_body_systems"
+"title":
+  "en": "MedlinePlus Body Location/Systems"
+"description":
+  "en": "Information classification developed by MedlinePlus"
+"author": "MedlinePlus.gov"
+"vocabularies":
+- "name": "Blood_Heart_Circulation"
+  "title":
+    "en": "Blood Heart and Circulation"
