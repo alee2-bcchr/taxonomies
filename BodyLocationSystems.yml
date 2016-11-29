@@ -1,12 +1,2347 @@
----
-name: MedlinePlus_body_systems
-title:
-  en: MedlinePlus Body Location/Systems
-description:
-  en: Information classification developed by MedlinePlus
-author: MedlinPlus.gov
-vocabularies:
-- name: Blood_Heart_Circulation
-  title:
-    en: Blood Heart and Circulation
-...
+"name": "MedlinePlus_Body Location/Systems"
+"title":
+  "en": "MedlinePlus Body Location/Systems"
+"author": "MedlinePlus.gov"
+"vocabularies":
+- "name": "Bones, Joints and Muscles"
+  "title":
+    "en": "Bones, Joints and Muscles"
+  "terms":
+  - "name": "Bone Diseases"
+    "title":
+      "en": "Bone Diseases"
+  - "name": "Finger Injuries and Disorders"
+    "title":
+      "en": "Finger Injuries and Disorders"
+  - "name": "Heel Injuries and Disorders"
+    "title":
+      "en": "Heel Injuries and Disorders"
+  - "name": "Gout"
+    "title":
+      "en": "Gout"
+  - "name": "Neuromuscular Disorders"
+    "title":
+      "en": "Neuromuscular Disorders"
+  - "name": "Fibromyalgia"
+    "title":
+      "en": "Fibromyalgia"
+  - "name": "Osteonecrosis"
+    "title":
+      "en": "Osteonecrosis"
+  - "name": "Sjogren's Syndrome"
+    "title":
+      "en": "Sjogren's Syndrome"
+  - "name": "Carpal Tunnel Syndrome"
+    "title":
+      "en": "Carpal Tunnel Syndrome"
+  - "name": "Tailbone Disorders"
+    "title":
+      "en": "Tailbone Disorders"
+  - "name": "Hip Replacement"
+    "title":
+      "en": "Hip Replacement"
+  - "name": "Toe Injuries and Disorders"
+    "title":
+      "en": "Toe Injuries and Disorders"
+  - "name": "Ankle Injuries and Disorders"
+    "title":
+      "en": "Ankle Injuries and Disorders"
+  - "name": "Ankylosing Spondylitis"
+    "title":
+      "en": "Ankylosing Spondylitis"
+  - "name": "Multiple Sclerosis"
+    "title":
+      "en": "Multiple Sclerosis"
+  - "name": "Back Pain"
+    "title":
+      "en": "Back Pain"
+  - "name": "Osteoporosis"
+    "title":
+      "en": "Osteoporosis"
+  - "name": "Scoliosis"
+    "title":
+      "en": "Scoliosis"
+  - "name": "Walking Problems"
+    "title":
+      "en": "Walking Problems"
+  - "name": "Infectious Arthritis"
+    "title":
+      "en": "Infectious Arthritis"
+  - "name": "Wrist Injuries and Disorders"
+    "title":
+      "en": "Wrist Injuries and Disorders"
+  - "name": "Back Injuries"
+    "title":
+      "en": "Back Injuries"
+  - "name": "Ehlers-Danlos Syndrome"
+    "title":
+      "en": "Ehlers-Danlos Syndrome"
+  - "name": "Leg Injuries and Disorders"
+    "title":
+      "en": "Leg Injuries and Disorders"
+  - "name": "Neck Injuries and Disorders"
+    "title":
+      "en": "Neck Injuries and Disorders"
+  - "name": "Muscle Disorders"
+    "title":
+      "en": "Muscle Disorders"
+  - "name": "Spine Injuries and Disorders"
+    "title":
+      "en": "Spine Injuries and Disorders"
+  - "name": "Anatomy"
+    "title":
+      "en": "Anatomy"
+  - "name": "Movement Disorders"
+    "title":
+      "en": "Movement Disorders"
+  - "name": "Osteogenesis Imperfecta"
+    "title":
+      "en": "Osteogenesis Imperfecta"
+  - "name": "Dislocations"
+    "title":
+      "en": "Dislocations"
+  - "name": "Hand Injuries and Disorders"
+    "title":
+      "en": "Hand Injuries and Disorders"
+  - "name": "Muscle Cramps"
+    "title":
+      "en": "Muscle Cramps"
+  - "name": "Ergonomics"
+    "title":
+      "en": "Ergonomics"
+  - "name": "Tendinitis"
+    "title":
+      "en": "Tendinitis"
+  - "name": "Knee Injuries and Disorders"
+    "title":
+      "en": "Knee Injuries and Disorders"
+  - "name": "Knee Replacement"
+    "title":
+      "en": "Knee Replacement"
+  - "name": "Foot Health"
+    "title":
+      "en": "Foot Health"
+  - "name": "Juvenile Arthritis"
+    "title":
+      "en": "Juvenile Arthritis"
+  - "name": "Myositis"
+    "title":
+      "en": "Myositis"
+  - "name": "Osteoarthritis"
+    "title":
+      "en": "Osteoarthritis"
+  - "name": "Bone Infections"
+    "title":
+      "en": "Bone Infections"
+  - "name": "Calcium"
+    "title":
+      "en": "Calcium"
+  - "name": "Diabetic Foot"
+    "title":
+      "en": "Diabetic Foot"
+  - "name": "Polymyalgia Rheumatica"
+    "title":
+      "en": "Polymyalgia Rheumatica"
+  - "name": "Arthritis"
+    "title":
+      "en": "Arthritis"
+  - "name": "Chronic Fatigue Syndrome"
+    "title":
+      "en": "Chronic Fatigue Syndrome"
+  - "name": "Dwarfism"
+    "title":
+      "en": "Dwarfism"
+  - "name": "Joint Disorders"
+    "title":
+      "en": "Joint Disorders"
+  - "name": "Rotator Cuff Injuries"
+    "title":
+      "en": "Rotator Cuff Injuries"
+  - "name": "Arm Injuries and Disorders"
+    "title":
+      "en": "Arm Injuries and Disorders"
+  - "name": "Rickets"
+    "title":
+      "en": "Rickets"
+  - "name": "Craniofacial Abnormalities"
+    "title":
+      "en": "Craniofacial Abnormalities"
+  - "name": "Bone Grafts"
+    "title":
+      "en": "Bone Grafts"
+  - "name": "Bursitis"
+    "title":
+      "en": "Bursitis"
+  - "name": "Muscular Dystrophy"
+    "title":
+      "en": "Muscular Dystrophy"
+  - "name": "Psoriatic Arthritis"
+    "title":
+      "en": "Psoriatic Arthritis"
+  - "name": "Elbow Injuries and Disorders"
+    "title":
+      "en": "Elbow Injuries and Disorders"
+  - "name": "Polio and Post-Polio Syndrome"
+    "title":
+      "en": "Polio and Post-Polio Syndrome"
+  - "name": "Sciatica"
+    "title":
+      "en": "Sciatica"
+  - "name": "Shoulder Injuries and Disorders"
+    "title":
+      "en": "Shoulder Injuries and Disorders"
+  - "name": "Bone Density"
+    "title":
+      "en": "Bone Density"
+  - "name": "Limb Loss"
+    "title":
+      "en": "Limb Loss"
+  - "name": "Rheumatoid Arthritis"
+    "title":
+      "en": "Rheumatoid Arthritis"
+  - "name": "Cartilage Disorders"
+    "title":
+      "en": "Cartilage Disorders"
+  - "name": "Hip Injuries and Disorders"
+    "title":
+      "en": "Hip Injuries and Disorders"
+  - "name": "Jaw Injuries and Disorders"
+    "title":
+      "en": "Jaw Injuries and Disorders"
+  - "name": "Sprains and Strains"
+    "title":
+      "en": "Sprains and Strains"
+  - "name": "Bone Cancer"
+    "title":
+      "en": "Bone Cancer"
+  - "name": "Fractures"
+    "title":
+      "en": "Fractures"
+  - "name": "Paget's Disease of Bone"
+    "title":
+      "en": "Paget's Disease of Bone"
+  - "name": "Spinal Stenosis"
+    "title":
+      "en": "Spinal Stenosis"
+  - "name": "Foot Injuries and Disorders"
+    "title":
+      "en": "Foot Injuries and Disorders"
+  - "name": "Chest Injuries and Disorders"
+    "title":
+      "en": "Chest Injuries and Disorders"
+  - "name": "Connective Tissue Disorders"
+    "title":
+      "en": "Connective Tissue Disorders"
+  - "name": "Herniated Disk"
+    "title":
+      "en": "Herniated Disk"
+- "name": "Female Reproductive System"
+  "title":
+    "en": "Female Reproductive System"
+  "terms":
+  - "name": "Yeast Infections"
+    "title":
+      "en": "Yeast Infections"
+  - "name": "Vulvar Cancer"
+    "title":
+      "en": "Vulvar Cancer"
+  - "name": "Menopause"
+    "title":
+      "en": "Menopause"
+  - "name": "Reproductive Hazards"
+    "title":
+      "en": "Reproductive Hazards"
+  - "name": "Stillbirth"
+    "title":
+      "en": "Stillbirth"
+  - "name": "Cervix Disorders"
+    "title":
+      "en": "Cervix Disorders"
+  - "name": "Uterine Diseases"
+    "title":
+      "en": "Uterine Diseases"
+  - "name": "Infections and Pregnancy"
+    "title":
+      "en": "Infections and Pregnancy"
+  - "name": "Ovarian Cysts"
+    "title":
+      "en": "Ovarian Cysts"
+  - "name": "Birth Control"
+    "title":
+      "en": "Birth Control"
+  - "name": "Pelvic Pain"
+    "title":
+      "en": "Pelvic Pain"
+  - "name": "Premenstrual Syndrome"
+    "title":
+      "en": "Premenstrual Syndrome"
+  - "name": "Menstruation"
+    "title":
+      "en": "Menstruation"
+  - "name": "Vaginal Cancer"
+    "title":
+      "en": "Vaginal Cancer"
+  - "name": "Cervical Cancer"
+    "title":
+      "en": "Cervical Cancer"
+  - "name": "Vulvar Disorders"
+    "title":
+      "en": "Vulvar Disorders"
+  - "name": "Sexual Health"
+    "title":
+      "en": "Sexual Health"
+  - "name": "Pelvic Inflammatory Disease"
+    "title":
+      "en": "Pelvic Inflammatory Disease"
+  - "name": "Assisted Reproductive Technology"
+    "title":
+      "en": "Assisted Reproductive Technology"
+  - "name": "Endometriosis"
+    "title":
+      "en": "Endometriosis"
+  - "name": "Hysterectomy"
+    "title":
+      "en": "Hysterectomy"
+  - "name": "Breast Reconstruction"
+    "title":
+      "en": "Breast Reconstruction"
+  - "name": "Genital Warts"
+    "title":
+      "en": "Genital Warts"
+  - "name": "Trichomoniasis"
+    "title":
+      "en": "Trichomoniasis"
+  - "name": "Infertility"
+    "title":
+      "en": "Infertility"
+  - "name": "Pregnancy and Substance Abuse"
+    "title":
+      "en": "Pregnancy and Substance Abuse"
+  - "name": "Cervical Cancer Screening"
+    "title":
+      "en": "Cervical Cancer Screening"
+  - "name": "Miscarriage"
+    "title":
+      "en": "Miscarriage"
+  - "name": "Prenatal Care"
+    "title":
+      "en": "Prenatal Care"
+  - "name": "Female Infertility"
+    "title":
+      "en": "Female Infertility"
+  - "name": "Polycystic Ovary Syndrome"
+    "title":
+      "en": "Polycystic Ovary Syndrome"
+  - "name": "HIV/AIDS and Pregnancy"
+    "title":
+      "en": "HIV/AIDS and Pregnancy"
+  - "name": "Breast Diseases"
+    "title":
+      "en": "Breast Diseases"
+  - "name": "Ectopic Pregnancy"
+    "title":
+      "en": "Ectopic Pregnancy"
+  - "name": "Preterm Labor"
+    "title":
+      "en": "Preterm Labor"
+  - "name": "Abortion"
+    "title":
+      "en": "Abortion"
+  - "name": "Hormone Replacement Therapy"
+    "title":
+      "en": "Hormone Replacement Therapy"
+  - "name": "HPV"
+    "title":
+      "en": "HPV"
+  - "name": "Herpes Simplex"
+    "title":
+      "en": "Herpes Simplex"
+  - "name": "Ovarian Cancer"
+    "title":
+      "en": "Ovarian Cancer"
+  - "name": "Premature Ovarian Failure"
+    "title":
+      "en": "Premature Ovarian Failure"
+  - "name": "Chlamydia Infections"
+    "title":
+      "en": "Chlamydia Infections"
+  - "name": "Syphilis"
+    "title":
+      "en": "Syphilis"
+  - "name": "Genital Herpes"
+    "title":
+      "en": "Genital Herpes"
+  - "name": "Mastectomy"
+    "title":
+      "en": "Mastectomy"
+  - "name": "Teenage Pregnancy"
+    "title":
+      "en": "Teenage Pregnancy"
+  - "name": "Uterine Fibroids"
+    "title":
+      "en": "Uterine Fibroids"
+  - "name": "Pelvic Support Problems"
+    "title":
+      "en": "Pelvic Support Problems"
+  - "name": "Diabetes and Pregnancy"
+    "title":
+      "en": "Diabetes and Pregnancy"
+  - "name": "Health Problems in Pregnancy"
+    "title":
+      "en": "Health Problems in Pregnancy"
+  - "name": "High Blood Pressure in Pregnancy"
+    "title":
+      "en": "High Blood Pressure in Pregnancy"
+  - "name": "Prenatal Testing"
+    "title":
+      "en": "Prenatal Testing"
+  - "name": "Mammography"
+    "title":
+      "en": "Mammography"
+  - "name": "Gonorrhea"
+    "title":
+      "en": "Gonorrhea"
+  - "name": "Vaginitis"
+    "title":
+      "en": "Vaginitis"
+  - "name": "Breast Cancer"
+    "title":
+      "en": "Breast Cancer"
+  - "name": "Tubal Ligation"
+    "title":
+      "en": "Tubal Ligation"
+  - "name": "Pregnancy"
+    "title":
+      "en": "Pregnancy"
+  - "name": "Sexual Problems in Women"
+    "title":
+      "en": "Sexual Problems in Women"
+  - "name": "Cesarean Section"
+    "title":
+      "en": "Cesarean Section"
+  - "name": "Ovarian Disorders"
+    "title":
+      "en": "Ovarian Disorders"
+  - "name": "Period Pain"
+    "title":
+      "en": "Period Pain"
+  - "name": "Sexually Transmitted Diseases"
+    "title":
+      "en": "Sexually Transmitted Diseases"
+  - "name": "Vaginal Bleeding"
+    "title":
+      "en": "Vaginal Bleeding"
+  - "name": "Vaginal Diseases"
+    "title":
+      "en": "Vaginal Diseases"
+  - "name": "Uterine Cancer"
+    "title":
+      "en": "Uterine Cancer"
+  - "name": "Breastfeeding"
+    "title":
+      "en": "Breastfeeding"
+  - "name": "Childbirth"
+    "title":
+      "en": "Childbirth"
+- "name": "Brain and Nerves"
+  "title":
+    "en": "Brain and Nerves"
+  "terms":
+  - "name": "Ataxia Telangiectasia"
+    "title":
+      "en": "Ataxia Telangiectasia"
+  - "name": "Coma"
+    "title":
+      "en": "Coma"
+  - "name": "Delirium"
+    "title":
+      "en": "Delirium"
+  - "name": "Brain Tumors"
+    "title":
+      "en": "Brain Tumors"
+  - "name": "Memory"
+    "title":
+      "en": "Memory"
+  - "name": "Tourette Syndrome"
+    "title":
+      "en": "Tourette Syndrome"
+  - "name": "Trigeminal Neuralgia"
+    "title":
+      "en": "Trigeminal Neuralgia"
+  - "name": "Charcot-Marie-Tooth Disease"
+    "title":
+      "en": "Charcot-Marie-Tooth Disease"
+  - "name": "Genetic Brain Disorders"
+    "title":
+      "en": "Genetic Brain Disorders"
+  - "name": "Multiple Sclerosis"
+    "title":
+      "en": "Multiple Sclerosis"
+  - "name": "Back Pain"
+    "title":
+      "en": "Back Pain"
+  - "name": "Fainting"
+    "title":
+      "en": "Fainting"
+  - "name": "Amyotrophic Lateral Sclerosis"
+    "title":
+      "en": "Amyotrophic Lateral Sclerosis"
+  - "name": "Neurologic Diseases"
+    "title":
+      "en": "Neurologic Diseases"
+  - "name": "Traumatic Brain Injury"
+    "title":
+      "en": "Traumatic Brain Injury"
+  - "name": "Brachial Plexus Injuries"
+    "title":
+      "en": "Brachial Plexus Injuries"
+  - "name": "Thoracic Outlet Syndrome"
+    "title":
+      "en": "Thoracic Outlet Syndrome"
+  - "name": "Autonomic Nervous System Disorders"
+    "title":
+      "en": "Autonomic Nervous System Disorders"
+  - "name": "Myasthenia Gravis"
+    "title":
+      "en": "Myasthenia Gravis"
+  - "name": "Hemorrhagic Stroke"
+    "title":
+      "en": "Hemorrhagic Stroke"
+  - "name": "Chiari Malformation"
+    "title":
+      "en": "Chiari Malformation"
+  - "name": "Pituitary Disorders"
+    "title":
+      "en": "Pituitary Disorders"
+  - "name": "Sleep Apnea"
+    "title":
+      "en": "Sleep Apnea"
+  - "name": "Sleep Disorders"
+    "title":
+      "en": "Sleep Disorders"
+  - "name": "Concussion"
+    "title":
+      "en": "Concussion"
+  - "name": "Neurofibromatosis"
+    "title":
+      "en": "Neurofibromatosis"
+  - "name": "Aphasia"
+    "title":
+      "en": "Aphasia"
+  - "name": "Peripheral Nerve Disorders"
+    "title":
+      "en": "Peripheral Nerve Disorders"
+  - "name": "Tuberous Sclerosis"
+    "title":
+      "en": "Tuberous Sclerosis"
+  - "name": "Ischemic Stroke"
+    "title":
+      "en": "Ischemic Stroke"
+  - "name": "Shingles"
+    "title":
+      "en": "Shingles"
+  - "name": "Brain Diseases"
+    "title":
+      "en": "Brain Diseases"
+  - "name": "Chronic Pain"
+    "title":
+      "en": "Chronic Pain"
+  - "name": "Reye Syndrome"
+    "title":
+      "en": "Reye Syndrome"
+  - "name": "Seizures"
+    "title":
+      "en": "Seizures"
+  - "name": "Encephalitis"
+    "title":
+      "en": "Encephalitis"
+  - "name": "Stroke"
+    "title":
+      "en": "Stroke"
+  - "name": "Migraine"
+    "title":
+      "en": "Migraine"
+  - "name": "Dizziness and Vertigo"
+    "title":
+      "en": "Dizziness and Vertigo"
+  - "name": "Creutzfeldt-Jakob Disease"
+    "title":
+      "en": "Creutzfeldt-Jakob Disease"
+  - "name": "Syringomyelia"
+    "title":
+      "en": "Syringomyelia"
+  - "name": "Dystonia"
+    "title":
+      "en": "Dystonia"
+  - "name": "Cerebral Palsy"
+    "title":
+      "en": "Cerebral Palsy"
+  - "name": "Rett Syndrome"
+    "title":
+      "en": "Rett Syndrome"
+  - "name": "Diabetic Nerve Problems"
+    "title":
+      "en": "Diabetic Nerve Problems"
+  - "name": "Neuromuscular Disorders"
+    "title":
+      "en": "Neuromuscular Disorders"
+  - "name": "Carpal Tunnel Syndrome"
+    "title":
+      "en": "Carpal Tunnel Syndrome"
+  - "name": "West Nile Virus"
+    "title":
+      "en": "West Nile Virus"
+  - "name": "Walking Problems"
+    "title":
+      "en": "Walking Problems"
+  - "name": "Bell's Palsy"
+    "title":
+      "en": "Bell's Palsy"
+  - "name": "Restless Legs"
+    "title":
+      "en": "Restless Legs"
+  - "name": "Alzheimer's Caregivers"
+    "title":
+      "en": "Alzheimer's Caregivers"
+  - "name": "Neural Tube Defects"
+    "title":
+      "en": "Neural Tube Defects"
+  - "name": "Phenylketonuria"
+    "title":
+      "en": "Phenylketonuria"
+  - "name": "Cerebellar Disorders"
+    "title":
+      "en": "Cerebellar Disorders"
+  - "name": "Facial Injuries and Disorders"
+    "title":
+      "en": "Facial Injuries and Disorders"
+  - "name": "Parkinson's Disease"
+    "title":
+      "en": "Parkinson's Disease"
+  - "name": "Anatomy"
+    "title":
+      "en": "Anatomy"
+  - "name": "Mild Cognitive Impairment"
+    "title":
+      "en": "Mild Cognitive Impairment"
+  - "name": "Movement Disorders"
+    "title":
+      "en": "Movement Disorders"
+  - "name": "Spinal Cord Injuries"
+    "title":
+      "en": "Spinal Cord Injuries"
+  - "name": "Spina Bifida"
+    "title":
+      "en": "Spina Bifida"
+  - "name": "Transient Ischemic Attack"
+    "title":
+      "en": "Transient Ischemic Attack"
+  - "name": "Tay-Sachs Disease"
+    "title":
+      "en": "Tay-Sachs Disease"
+  - "name": "Dementia"
+    "title":
+      "en": "Dementia"
+  - "name": "Childhood Brain Tumors"
+    "title":
+      "en": "Childhood Brain Tumors"
+  - "name": "Headache"
+    "title":
+      "en": "Headache"
+  - "name": "Hydrocephalus"
+    "title":
+      "en": "Hydrocephalus"
+  - "name": "Stuttering"
+    "title":
+      "en": "Stuttering"
+  - "name": "Diabetic Foot"
+    "title":
+      "en": "Diabetic Foot"
+  - "name": "Epilepsy"
+    "title":
+      "en": "Epilepsy"
+  - "name": "Leukodystrophies"
+    "title":
+      "en": "Leukodystrophies"
+  - "name": "Neuroblastoma"
+    "title":
+      "en": "Neuroblastoma"
+  - "name": "Spinal Muscular Atrophy"
+    "title":
+      "en": "Spinal Muscular Atrophy"
+  - "name": "Guillain-Barre Syndrome"
+    "title":
+      "en": "Guillain-Barre Syndrome"
+  - "name": "Pain"
+    "title":
+      "en": "Pain"
+  - "name": "Meningitis"
+    "title":
+      "en": "Meningitis"
+  - "name": "Craniofacial Abnormalities"
+    "title":
+      "en": "Craniofacial Abnormalities"
+  - "name": "Arteriovenous Malformations"
+    "title":
+      "en": "Arteriovenous Malformations"
+  - "name": "Paralysis"
+    "title":
+      "en": "Paralysis"
+  - "name": "Wilson Disease"
+    "title":
+      "en": "Wilson Disease"
+  - "name": "Polio and Post-Polio Syndrome"
+    "title":
+      "en": "Polio and Post-Polio Syndrome"
+  - "name": "Sciatica"
+    "title":
+      "en": "Sciatica"
+  - "name": "Spinal Cord Diseases"
+    "title":
+      "en": "Spinal Cord Diseases"
+  - "name": "Tremor"
+    "title":
+      "en": "Tremor"
+  - "name": "Speech and Communication Disorders"
+    "title":
+      "en": "Speech and Communication Disorders"
+  - "name": "Stroke Rehabilitation"
+    "title":
+      "en": "Stroke Rehabilitation"
+  - "name": "Lewy Body Disease"
+    "title":
+      "en": "Lewy Body Disease"
+  - "name": "Degenerative Nerve Diseases"
+    "title":
+      "en": "Degenerative Nerve Diseases"
+  - "name": "Acoustic Neuroma"
+    "title":
+      "en": "Acoustic Neuroma"
+  - "name": "Brain Malformations"
+    "title":
+      "en": "Brain Malformations"
+  - "name": "Brain Aneurysm"
+    "title":
+      "en": "Brain Aneurysm"
+  - "name": "Complex Regional Pain Syndrome"
+    "title":
+      "en": "Complex Regional Pain Syndrome"
+  - "name": "Progressive Supranuclear Palsy"
+    "title":
+      "en": "Progressive Supranuclear Palsy"
+  - "name": "Alzheimer's Disease"
+    "title":
+      "en": "Alzheimer's Disease"
+  - "name": "Attention Deficit Hyperactivity Disorder"
+    "title":
+      "en": "Attention Deficit Hyperactivity Disorder"
+  - "name": "Huntington's Disease"
+    "title":
+      "en": "Huntington's Disease"
+  - "name": "Insomnia"
+    "title":
+      "en": "Insomnia"
+  - "name": "Speech and Language Problems in Children"
+    "title":
+      "en": "Speech and Language Problems in Children"
+  - "name": "Friedreich's Ataxia"
+    "title":
+      "en": "Friedreich's Ataxia"
+- "name": "Eyes and Vision"
+  "title":
+    "en": "Eyes and Vision"
+  "terms":
+  - "name": "Glaucoma"
+    "title":
+      "en": "Glaucoma"
+  - "name": "Cataract"
+    "title":
+      "en": "Cataract"
+  - "name": "Eye Infections"
+    "title":
+      "en": "Eye Infections"
+  - "name": "Pinkeye"
+    "title":
+      "en": "Pinkeye"
+  - "name": "Refractive Errors"
+    "title":
+      "en": "Refractive Errors"
+  - "name": "Laser Eye Surgery"
+    "title":
+      "en": "Laser Eye Surgery"
+  - "name": "Diabetic Eye Problems"
+    "title":
+      "en": "Diabetic Eye Problems"
+  - "name": "Eye Wear"
+    "title":
+      "en": "Eye Wear"
+  - "name": "Eye Injuries"
+    "title":
+      "en": "Eye Injuries"
+  - "name": "Color Blindness"
+    "title":
+      "en": "Color Blindness"
+  - "name": "Behcet's Syndrome"
+    "title":
+      "en": "Behcet's Syndrome"
+  - "name": "Eyelid Disorders"
+    "title":
+      "en": "Eyelid Disorders"
+  - "name": "Anatomy"
+    "title":
+      "en": "Anatomy"
+  - "name": "Corneal Disorders"
+    "title":
+      "en": "Corneal Disorders"
+  - "name": "Eye Cancer"
+    "title":
+      "en": "Eye Cancer"
+  - "name": "Retinal Disorders"
+    "title":
+      "en": "Retinal Disorders"
+  - "name": "Retinal Detachment"
+    "title":
+      "en": "Retinal Detachment"
+  - "name": "Amblyopia"
+    "title":
+      "en": "Amblyopia"
+  - "name": "Vision Impairment and Blindness"
+    "title":
+      "en": "Vision Impairment and Blindness"
+  - "name": "Eye Diseases"
+    "title":
+      "en": "Eye Diseases"
+  - "name": "Eye Movement Disorders"
+    "title":
+      "en": "Eye Movement Disorders"
+  - "name": "Usher Syndrome"
+    "title":
+      "en": "Usher Syndrome"
+  - "name": "Tears"
+    "title":
+      "en": "Tears"
+  - "name": "Macular Degeneration"
+    "title":
+      "en": "Macular Degeneration"
+- "name": "Ear, Nose and Throat"
+  "title":
+    "en": "Ear, Nose and Throat"
+  "terms":
+  - "name": "Allergy"
+    "title":
+      "en": "Allergy"
+  - "name": "Taste and Smell Disorders"
+    "title":
+      "en": "Taste and Smell Disorders"
+  - "name": "Ear Infections"
+    "title":
+      "en": "Ear Infections"
+  - "name": "Noise"
+    "title":
+      "en": "Noise"
+  - "name": "Throat Cancer"
+    "title":
+      "en": "Throat Cancer"
+  - "name": "Hay Fever"
+    "title":
+      "en": "Hay Fever"
+  - "name": "Sinusitis"
+    "title":
+      "en": "Sinusitis"
+  - "name": "Sore Throat"
+    "title":
+      "en": "Sore Throat"
+  - "name": "Hearing Aids"
+    "title":
+      "en": "Hearing Aids"
+  - "name": "Balance Problems"
+    "title":
+      "en": "Balance Problems"
+  - "name": "Esophagus Disorders"
+    "title":
+      "en": "Esophagus Disorders"
+  - "name": "Ear Disorders"
+    "title":
+      "en": "Ear Disorders"
+  - "name": "Nose Injuries and Disorders"
+    "title":
+      "en": "Nose Injuries and Disorders"
+  - "name": "Streptococcal Infections"
+    "title":
+      "en": "Streptococcal Infections"
+  - "name": "Common Cold"
+    "title":
+      "en": "Common Cold"
+  - "name": "Tinnitus"
+    "title":
+      "en": "Tinnitus"
+  - "name": "Usher Syndrome"
+    "title":
+      "en": "Usher Syndrome"
+  - "name": "Tonsils and Adenoids"
+    "title":
+      "en": "Tonsils and Adenoids"
+  - "name": "Facial Injuries and Disorders"
+    "title":
+      "en": "Facial Injuries and Disorders"
+  - "name": "Head and Neck Cancer"
+    "title":
+      "en": "Head and Neck Cancer"
+  - "name": "Hearing Disorders and Deafness"
+    "title":
+      "en": "Hearing Disorders and Deafness"
+  - "name": "Anatomy"
+    "title":
+      "en": "Anatomy"
+  - "name": "Diphtheria"
+    "title":
+      "en": "Diphtheria"
+  - "name": "Nasal Cancer"
+    "title":
+      "en": "Nasal Cancer"
+  - "name": "Acoustic Neuroma"
+    "title":
+      "en": "Acoustic Neuroma"
+  - "name": "Cough"
+    "title":
+      "en": "Cough"
+  - "name": "Dizziness and Vertigo"
+    "title":
+      "en": "Dizziness and Vertigo"
+  - "name": "Mouth Disorders"
+    "title":
+      "en": "Mouth Disorders"
+  - "name": "Snoring"
+    "title":
+      "en": "Snoring"
+  - "name": "Throat Disorders"
+    "title":
+      "en": "Throat Disorders"
+  - "name": "Thyroid Cancer"
+    "title":
+      "en": "Thyroid Cancer"
+  - "name": "Esophageal Cancer"
+    "title":
+      "en": "Esophageal Cancer"
+  - "name": "Hearing Problems in Children"
+    "title":
+      "en": "Hearing Problems in Children"
+  - "name": "Meniere's Disease"
+    "title":
+      "en": "Meniere's Disease"
+  - "name": "Cochlear Implants"
+    "title":
+      "en": "Cochlear Implants"
+  - "name": "Barotrauma"
+    "title":
+      "en": "Barotrauma"
+- "name": "Endocrine System"
+  "title":
+    "en": "Endocrine System"
+  "terms":
+  - "name": "Diabetes Type 2"
+    "title":
+      "en": "Diabetes Type 2"
+  - "name": "Diabetes Type 1"
+    "title":
+      "en": "Diabetes Type 1"
+  - "name": "Pheochromocytoma"
+    "title":
+      "en": "Pheochromocytoma"
+  - "name": "Adrenal Gland Disorders"
+    "title":
+      "en": "Adrenal Gland Disorders"
+  - "name": "Diabetic Nerve Problems"
+    "title":
+      "en": "Diabetic Nerve Problems"
+  - "name": "Hormones"
+    "title":
+      "en": "Hormones"
+  - "name": "Cushing's Syndrome"
+    "title":
+      "en": "Cushing's Syndrome"
+  - "name": "Hyperglycemia"
+    "title":
+      "en": "Hyperglycemia"
+  - "name": "Metabolic Syndrome"
+    "title":
+      "en": "Metabolic Syndrome"
+  - "name": "Addison Disease"
+    "title":
+      "en": "Addison Disease"
+  - "name": "Ovarian Cysts"
+    "title":
+      "en": "Ovarian Cysts"
+  - "name": "Diabetic Heart Disease"
+    "title":
+      "en": "Diabetic Heart Disease"
+  - "name": "Diabetes Medicines"
+    "title":
+      "en": "Diabetes Medicines"
+  - "name": "Thymus Cancer"
+    "title":
+      "en": "Thymus Cancer"
+  - "name": "Menstruation"
+    "title":
+      "en": "Menstruation"
+  - "name": "Hyperthyroidism"
+    "title":
+      "en": "Hyperthyroidism"
+  - "name": "Pituitary Disorders"
+    "title":
+      "en": "Pituitary Disorders"
+  - "name": "Pancreatic Cancer"
+    "title":
+      "en": "Pancreatic Cancer"
+  - "name": "Anatomy"
+    "title":
+      "en": "Anatomy"
+  - "name": "Hypothyroidism"
+    "title":
+      "en": "Hypothyroidism"
+  - "name": "Prediabetes"
+    "title":
+      "en": "Prediabetes"
+  - "name": "Thyroid Diseases"
+    "title":
+      "en": "Thyroid Diseases"
+  - "name": "Endocrine Diseases"
+    "title":
+      "en": "Endocrine Diseases"
+  - "name": "Diabetic Diet"
+    "title":
+      "en": "Diabetic Diet"
+  - "name": "Polycystic Ovary Syndrome"
+    "title":
+      "en": "Polycystic Ovary Syndrome"
+  - "name": "Blood Sugar"
+    "title":
+      "en": "Blood Sugar"
+  - "name": "Diabetes Complications"
+    "title":
+      "en": "Diabetes Complications"
+  - "name": "Diabetic Foot"
+    "title":
+      "en": "Diabetic Foot"
+  - "name": "Pancreas Transplantation"
+    "title":
+      "en": "Pancreas Transplantation"
+  - "name": "Thyroid Tests"
+    "title":
+      "en": "Thyroid Tests"
+  - "name": "Testicular Cancer"
+    "title":
+      "en": "Testicular Cancer"
+  - "name": "Hormone Replacement Therapy"
+    "title":
+      "en": "Hormone Replacement Therapy"
+  - "name": "Adrenal Gland Cancer"
+    "title":
+      "en": "Adrenal Gland Cancer"
+  - "name": "Dwarfism"
+    "title":
+      "en": "Dwarfism"
+  - "name": "Ovarian Cancer"
+    "title":
+      "en": "Ovarian Cancer"
+  - "name": "Premature Ovarian Failure"
+    "title":
+      "en": "Premature Ovarian Failure"
+  - "name": "Diabetic Kidney Problems"
+    "title":
+      "en": "Diabetic Kidney Problems"
+  - "name": "Testicular Disorders"
+    "title":
+      "en": "Testicular Disorders"
+  - "name": "Islet Cell Transplantation"
+    "title":
+      "en": "Islet Cell Transplantation"
+  - "name": "Diabetes in Children and Teens"
+    "title":
+      "en": "Diabetes in Children and Teens"
+  - "name": "Diabetes and Pregnancy"
+    "title":
+      "en": "Diabetes and Pregnancy"
+  - "name": "Turner Syndrome"
+    "title":
+      "en": "Turner Syndrome"
+  - "name": "Diabetic Eye Problems"
+    "title":
+      "en": "Diabetic Eye Problems"
+  - "name": "Parathyroid Disorders"
+    "title":
+      "en": "Parathyroid Disorders"
+  - "name": "Pituitary Tumors"
+    "title":
+      "en": "Pituitary Tumors"
+  - "name": "Pancreatic Diseases"
+    "title":
+      "en": "Pancreatic Diseases"
+  - "name": "Thyroid Cancer"
+    "title":
+      "en": "Thyroid Cancer"
+  - "name": "Diabetes Insipidus"
+    "title":
+      "en": "Diabetes Insipidus"
+  - "name": "Diabetes"
+    "title":
+      "en": "Diabetes"
+  - "name": "Growth Disorders"
+    "title":
+      "en": "Growth Disorders"
+- "name": "Male Reproductive System"
+  "title":
+    "en": "Male Reproductive System"
+  "terms":
+  - "name": "Reproductive Hazards"
+    "title":
+      "en": "Reproductive Hazards"
+  - "name": "Testicular Cancer"
+    "title":
+      "en": "Testicular Cancer"
+  - "name": "Prostate Diseases"
+    "title":
+      "en": "Prostate Diseases"
+  - "name": "Herpes Simplex"
+    "title":
+      "en": "Herpes Simplex"
+  - "name": "Sexual Problems in Men"
+    "title":
+      "en": "Sexual Problems in Men"
+  - "name": "Chlamydia Infections"
+    "title":
+      "en": "Chlamydia Infections"
+  - "name": "Syphilis"
+    "title":
+      "en": "Syphilis"
+  - "name": "Genital Herpes"
+    "title":
+      "en": "Genital Herpes"
+  - "name": "Testicular Disorders"
+    "title":
+      "en": "Testicular Disorders"
+  - "name": "Birth Control"
+    "title":
+      "en": "Birth Control"
+  - "name": "Prostate Cancer Screening"
+    "title":
+      "en": "Prostate Cancer Screening"
+  - "name": "Erectile Dysfunction"
+    "title":
+      "en": "Erectile Dysfunction"
+  - "name": "Sexual Health"
+    "title":
+      "en": "Sexual Health"
+  - "name": "Assisted Reproductive Technology"
+    "title":
+      "en": "Assisted Reproductive Technology"
+  - "name": "Gonorrhea"
+    "title":
+      "en": "Gonorrhea"
+  - "name": "Anatomy"
+    "title":
+      "en": "Anatomy"
+  - "name": "Penis Disorders"
+    "title":
+      "en": "Penis Disorders"
+  - "name": "Enlarged Prostate (BPH)"
+    "title":
+      "en": "Enlarged Prostate (BPH)"
+  - "name": "Sexually Transmitted Diseases"
+    "title":
+      "en": "Sexually Transmitted Diseases"
+  - "name": "Vasectomy"
+    "title":
+      "en": "Vasectomy"
+  - "name": "Genital Warts"
+    "title":
+      "en": "Genital Warts"
+  - "name": "Infertility"
+    "title":
+      "en": "Infertility"
+  - "name": "Prostate Cancer"
+    "title":
+      "en": "Prostate Cancer"
+  - "name": "Circumcision"
+    "title":
+      "en": "Circumcision"
+  - "name": "Male Infertility"
+    "title":
+      "en": "Male Infertility"
+- "name": "Mouth and Teeth"
+  "title":
+    "en": "Mouth and Teeth"
+  "terms":
+  - "name": "Dentures"
+    "title":
+      "en": "Dentures"
+  - "name": "Taste and Smell Disorders"
+    "title":
+      "en": "Taste and Smell Disorders"
+  - "name": "Yeast Infections"
+    "title":
+      "en": "Yeast Infections"
+  - "name": "Dry Mouth"
+    "title":
+      "en": "Dry Mouth"
+  - "name": "Gum Disease"
+    "title":
+      "en": "Gum Disease"
+  - "name": "Salivary Gland Cancer"
+    "title":
+      "en": "Salivary Gland Cancer"
+  - "name": "Tooth Decay"
+    "title":
+      "en": "Tooth Decay"
+  - "name": "Oral Cancer"
+    "title":
+      "en": "Oral Cancer"
+  - "name": "Behcet's Syndrome"
+    "title":
+      "en": "Behcet's Syndrome"
+  - "name": "Voice Disorders"
+    "title":
+      "en": "Voice Disorders"
+  - "name": "Orthodontia"
+    "title":
+      "en": "Orthodontia"
+  - "name": "Herpes Simplex"
+    "title":
+      "en": "Herpes Simplex"
+  - "name": "Child Dental Health"
+    "title":
+      "en": "Child Dental Health"
+  - "name": "Cosmetic Dentistry"
+    "title":
+      "en": "Cosmetic Dentistry"
+  - "name": "Canker Sores"
+    "title":
+      "en": "Canker Sores"
+  - "name": "Tongue Disorders"
+    "title":
+      "en": "Tongue Disorders"
+  - "name": "Speech and Communication Disorders"
+    "title":
+      "en": "Speech and Communication Disorders"
+  - "name": "Tonsils and Adenoids"
+    "title":
+      "en": "Tonsils and Adenoids"
+  - "name": "Head and Neck Cancer"
+    "title":
+      "en": "Head and Neck Cancer"
+  - "name": "Piercing and Tattoos"
+    "title":
+      "en": "Piercing and Tattoos"
+  - "name": "Jaw Injuries and Disorders"
+    "title":
+      "en": "Jaw Injuries and Disorders"
+  - "name": "Cleft Lip and Palate"
+    "title":
+      "en": "Cleft Lip and Palate"
+  - "name": "Anatomy"
+    "title":
+      "en": "Anatomy"
+  - "name": "Mouth Disorders"
+    "title":
+      "en": "Mouth Disorders"
+  - "name": "Snoring"
+    "title":
+      "en": "Snoring"
+  - "name": "Bad Breath"
+    "title":
+      "en": "Bad Breath"
+  - "name": "Dental Health"
+    "title":
+      "en": "Dental Health"
+  - "name": "Salivary Gland Disorders"
+    "title":
+      "en": "Salivary Gland Disorders"
+  - "name": "Smokeless Tobacco"
+    "title":
+      "en": "Smokeless Tobacco"
+  - "name": "Tooth Disorders"
+    "title":
+      "en": "Tooth Disorders"
+  - "name": "Cold Sores"
+    "title":
+      "en": "Cold Sores"
+  - "name": "Temporomandibular Joint Dysfunction"
+    "title":
+      "en": "Temporomandibular Joint Dysfunction"
+- "name": "Blood, Heart and Circulation"
+  "title":
+    "en": "Blood, Heart and Circulation"
+  "terms":
+  - "name": "Arrhythmia"
+    "title":
+      "en": "Arrhythmia"
+  - "name": "CPR"
+    "title":
+      "en": "CPR"
+  - "name": "Eosinophilic Disorders"
+    "title":
+      "en": "Eosinophilic Disorders"
+  - "name": "Angioplasty"
+    "title":
+      "en": "Angioplasty"
+  - "name": "Cardiomyopathy"
+    "title":
+      "en": "Cardiomyopathy"
+  - "name": "Aneurysms"
+    "title":
+      "en": "Aneurysms"
+  - "name": "Chronic Myeloid Leukemia"
+    "title":
+      "en": "Chronic Myeloid Leukemia"
+  - "name": "Low Blood Pressure"
+    "title":
+      "en": "Low Blood Pressure"
+  - "name": "Blood"
+    "title":
+      "en": "Blood"
+  - "name": "Chronic Lymphocytic Leukemia"
+    "title":
+      "en": "Chronic Lymphocytic Leukemia"
+  - "name": "Blood Clots"
+    "title":
+      "en": "Blood Clots"
+  - "name": "Sickle Cell Anemia"
+    "title":
+      "en": "Sickle Cell Anemia"
+  - "name": "Granulomatosis with Polyangiitis"
+    "title":
+      "en": "Granulomatosis with Polyangiitis"
+  - "name": "Lymphedema"
+    "title":
+      "en": "Lymphedema"
+  - "name": "Vascular Diseases"
+    "title":
+      "en": "Vascular Diseases"
+  - "name": "Heart Diseases"
+    "title":
+      "en": "Heart Diseases"
+  - "name": "Metabolic Syndrome"
+    "title":
+      "en": "Metabolic Syndrome"
+  - "name": "Gangrene"
+    "title":
+      "en": "Gangrene"
+  - "name": "Heart Failure"
+    "title":
+      "en": "Heart Failure"
+  - "name": "Diabetic Heart Disease"
+    "title":
+      "en": "Diabetic Heart Disease"
+  - "name": "Atrial Fibrillation"
+    "title":
+      "en": "Atrial Fibrillation"
+  - "name": "Pacemakers and Implantable Defibrillators"
+    "title":
+      "en": "Pacemakers and Implantable Defibrillators"
+  - "name": "Hemorrhagic Stroke"
+    "title":
+      "en": "Hemorrhagic Stroke"
+  - "name": "Heart Disease in Women"
+    "title":
+      "en": "Heart Disease in Women"
+  - "name": "Bleeding Disorders"
+    "title":
+      "en": "Bleeding Disorders"
+  - "name": "Malaria"
+    "title":
+      "en": "Malaria"
+  - "name": "Anemia"
+    "title":
+      "en": "Anemia"
+  - "name": "Rh Incompatibility"
+    "title":
+      "en": "Rh Incompatibility"
+  - "name": "Heart Transplantation"
+    "title":
+      "en": "Heart Transplantation"
+  - "name": "Platelet Disorders"
+    "title":
+      "en": "Platelet Disorders"
+  - "name": "Anatomy"
+    "title":
+      "en": "Anatomy"
+  - "name": "Blood Transfusion and Donation"
+    "title":
+      "en": "Blood Transfusion and Donation"
+  - "name": "Carotid Artery Disease"
+    "title":
+      "en": "Carotid Artery Disease"
+  - "name": "Giant Cell Arteritis"
+    "title":
+      "en": "Giant Cell Arteritis"
+  - "name": "Congenital Heart Defects"
+    "title":
+      "en": "Congenital Heart Defects"
+  - "name": "Blood Count Tests"
+    "title":
+      "en": "Blood Count Tests"
+  - "name": "Endocarditis"
+    "title":
+      "en": "Endocarditis"
+  - "name": "Cardiac Arrest"
+    "title":
+      "en": "Cardiac Arrest"
+  - "name": "Transient Ischemic Attack"
+    "title":
+      "en": "Transient Ischemic Attack"
+  - "name": "Varicose Veins"
+    "title":
+      "en": "Varicose Veins"
+  - "name": "Raynaud's Disease"
+    "title":
+      "en": "Raynaud's Disease"
+  - "name": "Shock"
+    "title":
+      "en": "Shock"
+  - "name": "Deep Vein Thrombosis"
+    "title":
+      "en": "Deep Vein Thrombosis"
+  - "name": "Diabetic Foot"
+    "title":
+      "en": "Diabetic Foot"
+  - "name": "Leukemia"
+    "title":
+      "en": "Leukemia"
+  - "name": "Aortic Aneurysm"
+    "title":
+      "en": "Aortic Aneurysm"
+  - "name": "Behcet's Syndrome"
+    "title":
+      "en": "Behcet's Syndrome"
+  - "name": "Angina"
+    "title":
+      "en": "Angina"
+  - "name": "Blood Thinners"
+    "title":
+      "en": "Blood Thinners"
+  - "name": "Bleeding"
+    "title":
+      "en": "Bleeding"
+  - "name": "Mitral Valve Prolapse"
+    "title":
+      "en": "Mitral Valve Prolapse"
+  - "name": "Acute Myeloid Leukemia"
+    "title":
+      "en": "Acute Myeloid Leukemia"
+  - "name": "Vasculitis"
+    "title":
+      "en": "Vasculitis"
+  - "name": "Atherosclerosis"
+    "title":
+      "en": "Atherosclerosis"
+  - "name": "Blood Pressure Medicines"
+    "title":
+      "en": "Blood Pressure Medicines"
+  - "name": "Hemophilia"
+    "title":
+      "en": "Hemophilia"
+  - "name": "Ischemic Stroke"
+    "title":
+      "en": "Ischemic Stroke"
+  - "name": "Pulmonary Hypertension"
+    "title":
+      "en": "Pulmonary Hypertension"
+  - "name": "Arteriovenous Malformations"
+    "title":
+      "en": "Arteriovenous Malformations"
+  - "name": "Blood Disorders"
+    "title":
+      "en": "Blood Disorders"
+  - "name": "DASH Diet"
+    "title":
+      "en": "DASH Diet"
+  - "name": "Metabolic Panel"
+    "title":
+      "en": "Metabolic Panel"
+  - "name": "Heart Diseases--Prevention"
+    "title":
+      "en": "Heart Diseases--Prevention"
+  - "name": "Pericardial Disorders"
+    "title":
+      "en": "Pericardial Disorders"
+  - "name": "Aplastic Anemia"
+    "title":
+      "en": "Aplastic Anemia"
+  - "name": "Edema"
+    "title":
+      "en": "Edema"
+  - "name": "Stroke"
+    "title":
+      "en": "Stroke"
+  - "name": "Thalassemia"
+    "title":
+      "en": "Thalassemia"
+  - "name": "Triglycerides"
+    "title":
+      "en": "Triglycerides"
+  - "name": "Coronary Artery Disease"
+    "title":
+      "en": "Coronary Artery Disease"
+  - "name": "Heart Surgery"
+    "title":
+      "en": "Heart Surgery"
+  - "name": "Peripheral Arterial Disease"
+    "title":
+      "en": "Peripheral Arterial Disease"
+  - "name": "Cholesterol"
+    "title":
+      "en": "Cholesterol"
+  - "name": "Heart Valve Diseases"
+    "title":
+      "en": "Heart Valve Diseases"
+  - "name": "Cardiac Rehabilitation"
+    "title":
+      "en": "Cardiac Rehabilitation"
+  - "name": "Brain Aneurysm"
+    "title":
+      "en": "Brain Aneurysm"
+  - "name": "Heart Attack"
+    "title":
+      "en": "Heart Attack"
+  - "name": "Chest Pain"
+    "title":
+      "en": "Chest Pain"
+  - "name": "Acute Lymphocytic Leukemia"
+    "title":
+      "en": "Acute Lymphocytic Leukemia"
+  - "name": "Kawasaki Disease"
+    "title":
+      "en": "Kawasaki Disease"
+  - "name": "High Blood Pressure"
+    "title":
+      "en": "High Blood Pressure"
+  - "name": "Childhood Leukemia"
+    "title":
+      "en": "Childhood Leukemia"
+  - "name": "Coronary Artery Bypass Surgery"
+    "title":
+      "en": "Coronary Artery Bypass Surgery"
+- "name": "Immune System"
+  "title":
+    "en": "Immune System"
+  "terms":
+  - "name": "Allergy"
+    "title":
+      "en": "Allergy"
+  - "name": "Diabetes Type 1"
+    "title":
+      "en": "Diabetes Type 1"
+  - "name": "Eosinophilic Disorders"
+    "title":
+      "en": "Eosinophilic Disorders"
+  - "name": "Bone Marrow Diseases"
+    "title":
+      "en": "Bone Marrow Diseases"
+  - "name": "Sjogren's Syndrome"
+    "title":
+      "en": "Sjogren's Syndrome"
+  - "name": "Flu Shot"
+    "title":
+      "en": "Flu Shot"
+  - "name": "Ankylosing Spondylitis"
+    "title":
+      "en": "Ankylosing Spondylitis"
+  - "name": "Chronic Lymphocytic Leukemia"
+    "title":
+      "en": "Chronic Lymphocytic Leukemia"
+  - "name": "HIV/AIDS Medicines"
+    "title":
+      "en": "HIV/AIDS Medicines"
+  - "name": "Lymphedema"
+    "title":
+      "en": "Lymphedema"
+  - "name": "Bone Marrow Transplantation"
+    "title":
+      "en": "Bone Marrow Transplantation"
+  - "name": "Addison Disease"
+    "title":
+      "en": "Addison Disease"
+  - "name": "Lymphatic Diseases"
+    "title":
+      "en": "Lymphatic Diseases"
+  - "name": "Tetanus, Diphtheria, and Pertussis Vaccines"
+    "title":
+      "en": "Tetanus, Diphtheria, and Pertussis Vaccines"
+  - "name": "Multiple Myeloma"
+    "title":
+      "en": "Multiple Myeloma"
+  - "name": "Lupus"
+    "title":
+      "en": "Lupus"
+  - "name": "Spleen Diseases"
+    "title":
+      "en": "Spleen Diseases"
+  - "name": "Thymus Cancer"
+    "title":
+      "en": "Thymus Cancer"
+  - "name": "Immunization"
+    "title":
+      "en": "Immunization"
+  - "name": "Tonsils and Adenoids"
+    "title":
+      "en": "Tonsils and Adenoids"
+  - "name": "Anatomy"
+    "title":
+      "en": "Anatomy"
+  - "name": "Asthma"
+    "title":
+      "en": "Asthma"
+  - "name": "Giant Cell Arteritis"
+    "title":
+      "en": "Giant Cell Arteritis"
+  - "name": "Immune System and Disorders"
+    "title":
+      "en": "Immune System and Disorders"
+  - "name": "Juvenile Arthritis"
+    "title":
+      "en": "Juvenile Arthritis"
+  - "name": "Infectious Diseases"
+    "title":
+      "en": "Infectious Diseases"
+  - "name": "Pneumocystis Infections"
+    "title":
+      "en": "Pneumocystis Infections"
+  - "name": "Hodgkin Disease"
+    "title":
+      "en": "Hodgkin Disease"
+  - "name": "HIV/AIDS and Pregnancy"
+    "title":
+      "en": "HIV/AIDS and Pregnancy"
+  - "name": "Hives"
+    "title":
+      "en": "Hives"
+  - "name": "Hay Fever"
+    "title":
+      "en": "Hay Fever"
+  - "name": "Viral Infections"
+    "title":
+      "en": "Viral Infections"
+  - "name": "Cryptosporidiosis"
+    "title":
+      "en": "Cryptosporidiosis"
+  - "name": "Anaphylaxis"
+    "title":
+      "en": "Anaphylaxis"
+  - "name": "Animal Bites"
+    "title":
+      "en": "Animal Bites"
+  - "name": "Living with HIV/AIDS"
+    "title":
+      "en": "Living with HIV/AIDS"
+  - "name": "Latex Allergy"
+    "title":
+      "en": "Latex Allergy"
+  - "name": "Scleroderma"
+    "title":
+      "en": "Scleroderma"
+  - "name": "Aplastic Anemia"
+    "title":
+      "en": "Aplastic Anemia"
+  - "name": "Childhood Immunization"
+    "title":
+      "en": "Childhood Immunization"
+  - "name": "HIV/AIDS"
+    "title":
+      "en": "HIV/AIDS"
+  - "name": "Myelodysplastic Syndromes"
+    "title":
+      "en": "Myelodysplastic Syndromes"
+  - "name": "HIV/AIDS and Infections"
+    "title":
+      "en": "HIV/AIDS and Infections"
+  - "name": "Rheumatoid Arthritis"
+    "title":
+      "en": "Rheumatoid Arthritis"
+  - "name": "Pemphigus"
+    "title":
+      "en": "Pemphigus"
+  - "name": "Food Allergy"
+    "title":
+      "en": "Food Allergy"
+  - "name": "HIV/AIDS in Women"
+    "title":
+      "en": "HIV/AIDS in Women"
+  - "name": "Infectious Mononucleosis"
+    "title":
+      "en": "Infectious Mononucleosis"
+  - "name": "Lymphoma"
+    "title":
+      "en": "Lymphoma"
+  - "name": "Autoimmune Diseases"
+    "title":
+      "en": "Autoimmune Diseases"
+  - "name": "Asthma in Children"
+    "title":
+      "en": "Asthma in Children"
+  - "name": "Acute Lymphocytic Leukemia"
+    "title":
+      "en": "Acute Lymphocytic Leukemia"
+  - "name": "Kawasaki Disease"
+    "title":
+      "en": "Kawasaki Disease"
+  - "name": "Childhood Leukemia"
+    "title":
+      "en": "Childhood Leukemia"
+- "name": "Digestive System"
+  "title":
+    "en": "Digestive System"
+  "terms":
+  - "name": "Anal Disorders"
+    "title":
+      "en": "Anal Disorders"
+  - "name": "Bowel Incontinence"
+    "title":
+      "en": "Bowel Incontinence"
+  - "name": "Eosinophilic Disorders"
+    "title":
+      "en": "Eosinophilic Disorders"
+  - "name": "Colorectal Cancer"
+    "title":
+      "en": "Colorectal Cancer"
+  - "name": "Hiatal Hernia"
+    "title":
+      "en": "Hiatal Hernia"
+  - "name": "Diverticulosis and Diverticulitis"
+    "title":
+      "en": "Diverticulosis and Diverticulitis"
+  - "name": "Swallowing Disorders"
+    "title":
+      "en": "Swallowing Disorders"
+  - "name": "Bile Duct Diseases"
+    "title":
+      "en": "Bile Duct Diseases"
+  - "name": "Esophagus Disorders"
+    "title":
+      "en": "Esophagus Disorders"
+  - "name": "Hepatitis"
+    "title":
+      "en": "Hepatitis"
+  - "name": "Colonic Polyps"
+    "title":
+      "en": "Colonic Polyps"
+  - "name": "Clostridium Difficile Infections"
+    "title":
+      "en": "Clostridium Difficile Infections"
+  - "name": "Small Intestine Disorders"
+    "title":
+      "en": "Small Intestine Disorders"
+  - "name": "Ulcerative Colitis"
+    "title":
+      "en": "Ulcerative Colitis"
+  - "name": "Bile Duct Cancer"
+    "title":
+      "en": "Bile Duct Cancer"
+  - "name": "Helicobacter Pylori Infections"
+    "title":
+      "en": "Helicobacter Pylori Infections"
+  - "name": "Constipation"
+    "title":
+      "en": "Constipation"
+  - "name": "Heartburn"
+    "title":
+      "en": "Heartburn"
+  - "name": "Rectal Disorders"
+    "title":
+      "en": "Rectal Disorders"
+  - "name": "Intestinal Obstruction"
+    "title":
+      "en": "Intestinal Obstruction"
+  - "name": "Appendicitis"
+    "title":
+      "en": "Appendicitis"
+  - "name": "Pancreatitis"
+    "title":
+      "en": "Pancreatitis"
+  - "name": "Diarrhea"
+    "title":
+      "en": "Diarrhea"
+  - "name": "Gluten Sensitivity"
+    "title":
+      "en": "Gluten Sensitivity"
+  - "name": "Pancreatic Cancer"
+    "title":
+      "en": "Pancreatic Cancer"
+  - "name": "Anatomy"
+    "title":
+      "en": "Anatomy"
+  - "name": "Intestinal Cancer"
+    "title":
+      "en": "Intestinal Cancer"
+  - "name": "Cirrhosis"
+    "title":
+      "en": "Cirrhosis"
+  - "name": "GERD"
+    "title":
+      "en": "GERD"
+  - "name": "Ostomy"
+    "title":
+      "en": "Ostomy"
+  - "name": "Gas"
+    "title":
+      "en": "Gas"
+  - "name": "Esophageal Cancer"
+    "title":
+      "en": "Esophageal Cancer"
+  - "name": "Anal Cancer"
+    "title":
+      "en": "Anal Cancer"
+  - "name": "Bowel Movement"
+    "title":
+      "en": "Bowel Movement"
+  - "name": "Hemorrhoids"
+    "title":
+      "en": "Hemorrhoids"
+  - "name": "Liver Diseases"
+    "title":
+      "en": "Liver Diseases"
+  - "name": "Colonic Diseases"
+    "title":
+      "en": "Colonic Diseases"
+  - "name": "Gastrointestinal Bleeding"
+    "title":
+      "en": "Gastrointestinal Bleeding"
+  - "name": "Porphyria"
+    "title":
+      "en": "Porphyria"
+  - "name": "Stomach Cancer"
+    "title":
+      "en": "Stomach Cancer"
+  - "name": "Liver Transplantation"
+    "title":
+      "en": "Liver Transplantation"
+  - "name": "Pancreas Transplantation"
+    "title":
+      "en": "Pancreas Transplantation"
+  - "name": "Gastroenteritis"
+    "title":
+      "en": "Gastroenteritis"
+  - "name": "Malabsorption Syndromes"
+    "title":
+      "en": "Malabsorption Syndromes"
+  - "name": "Abdominal Pain"
+    "title":
+      "en": "Abdominal Pain"
+  - "name": "Liver Cancer"
+    "title":
+      "en": "Liver Cancer"
+  - "name": "Gallbladder Diseases"
+    "title":
+      "en": "Gallbladder Diseases"
+  - "name": "Peptic Ulcer"
+    "title":
+      "en": "Peptic Ulcer"
+  - "name": "Hernia"
+    "title":
+      "en": "Hernia"
+  - "name": "Irritable Bowel Syndrome"
+    "title":
+      "en": "Irritable Bowel Syndrome"
+  - "name": "Colonoscopy"
+    "title":
+      "en": "Colonoscopy"
+  - "name": "Celiac Disease"
+    "title":
+      "en": "Celiac Disease"
+  - "name": "Hiccups"
+    "title":
+      "en": "Hiccups"
+  - "name": "Fistulas"
+    "title":
+      "en": "Fistulas"
+  - "name": "Islet Cell Transplantation"
+    "title":
+      "en": "Islet Cell Transplantation"
+  - "name": "Wilson Disease"
+    "title":
+      "en": "Wilson Disease"
+  - "name": "Jaundice"
+    "title":
+      "en": "Jaundice"
+  - "name": "Liver Function Tests"
+    "title":
+      "en": "Liver Function Tests"
+  - "name": "Weight Loss Surgery"
+    "title":
+      "en": "Weight Loss Surgery"
+  - "name": "Hepatitis Testing"
+    "title":
+      "en": "Hepatitis Testing"
+  - "name": "Nausea and Vomiting"
+    "title":
+      "en": "Nausea and Vomiting"
+  - "name": "Adhesions"
+    "title":
+      "en": "Adhesions"
+  - "name": "Hemochromatosis"
+    "title":
+      "en": "Hemochromatosis"
+  - "name": "Gallstones"
+    "title":
+      "en": "Gallstones"
+  - "name": "Peritoneal Disorders"
+    "title":
+      "en": "Peritoneal Disorders"
+  - "name": "Gallbladder Cancer"
+    "title":
+      "en": "Gallbladder Cancer"
+  - "name": "Lactose Intolerance"
+    "title":
+      "en": "Lactose Intolerance"
+  - "name": "Pancreatic Diseases"
+    "title":
+      "en": "Pancreatic Diseases"
+  - "name": "Crohn's Disease"
+    "title":
+      "en": "Crohn's Disease"
+  - "name": "Foodborne Illness"
+    "title":
+      "en": "Foodborne Illness"
+  - "name": "Digestive Diseases"
+    "title":
+      "en": "Digestive Diseases"
+  - "name": "Norovirus Infections"
+    "title":
+      "en": "Norovirus Infections"
+  - "name": "Stomach Disorders"
+    "title":
+      "en": "Stomach Disorders"
+  - "name": "Hepatitis C"
+    "title":
+      "en": "Hepatitis C"
+  - "name": "Indigestion"
+    "title":
+      "en": "Indigestion"
+  - "name": "Hepatitis A"
+    "title":
+      "en": "Hepatitis A"
+  - "name": "Hepatitis B"
+    "title":
+      "en": "Hepatitis B"
+- "name": "Kidneys and Urinary System"
+  "title":
+    "en": "Kidneys and Urinary System"
+  "terms":
+  - "name": "Kidney Diseases"
+    "title":
+      "en": "Kidney Diseases"
+  - "name": "Ureteral Disorders"
+    "title":
+      "en": "Ureteral Disorders"
+  - "name": "Urinalysis"
+    "title":
+      "en": "Urinalysis"
+  - "name": "Kidney Failure"
+    "title":
+      "en": "Kidney Failure"
+  - "name": "Granulomatosis with Polyangiitis"
+    "title":
+      "en": "Granulomatosis with Polyangiitis"
+  - "name": "Diabetic Kidney Problems"
+    "title":
+      "en": "Diabetic Kidney Problems"
+  - "name": "Interstitial Cystitis"
+    "title":
+      "en": "Interstitial Cystitis"
+  - "name": "Urethral Disorders"
+    "title":
+      "en": "Urethral Disorders"
+  - "name": "Urinary Incontinence"
+    "title":
+      "en": "Urinary Incontinence"
+  - "name": "Kidney Tests"
+    "title":
+      "en": "Kidney Tests"
+  - "name": "Creatinine"
+    "title":
+      "en": "Creatinine"
+  - "name": "Kidney Stones"
+    "title":
+      "en": "Kidney Stones"
+  - "name": "Kidney Cysts"
+    "title":
+      "en": "Kidney Cysts"
+  - "name": "Bladder Cancer"
+    "title":
+      "en": "Bladder Cancer"
+  - "name": "Chronic Kidney Disease"
+    "title":
+      "en": "Chronic Kidney Disease"
+  - "name": "Kidney Transplantation"
+    "title":
+      "en": "Kidney Transplantation"
+  - "name": "Anatomy"
+    "title":
+      "en": "Anatomy"
+  - "name": "Bladder Diseases"
+    "title":
+      "en": "Bladder Diseases"
+  - "name": "Ostomy"
+    "title":
+      "en": "Ostomy"
+  - "name": "Urinary Tract Infections"
+    "title":
+      "en": "Urinary Tract Infections"
+  - "name": "Urine and Urination"
+    "title":
+      "en": "Urine and Urination"
+  - "name": "Diabetes Insipidus"
+    "title":
+      "en": "Diabetes Insipidus"
+  - "name": "Dialysis"
+    "title":
+      "en": "Dialysis"
+  - "name": "Wilms Tumor"
+    "title":
+      "en": "Wilms Tumor"
+  - "name": "Kidney Cancer"
+    "title":
+      "en": "Kidney Cancer"
+  - "name": "Overactive Bladder"
+    "title":
+      "en": "Overactive Bladder"
+- "name": "Skin, Hair and Nails"
+  "title":
+    "en": "Skin, Hair and Nails"
+  "terms":
+  - "name": "Head Lice"
+    "title":
+      "en": "Head Lice"
+  - "name": "Botox"
+    "title":
+      "en": "Botox"
+  - "name": "Nail Diseases"
+    "title":
+      "en": "Nail Diseases"
+  - "name": "Skin Aging"
+    "title":
+      "en": "Skin Aging"
+  - "name": "Cellulitis"
+    "title":
+      "en": "Cellulitis"
+  - "name": "Pressure Sores"
+    "title":
+      "en": "Pressure Sores"
+  - "name": "Germs and Hygiene"
+    "title":
+      "en": "Germs and Hygiene"
+  - "name": "Lice"
+    "title":
+      "en": "Lice"
+  - "name": "Kaposi's Sarcoma"
+    "title":
+      "en": "Kaposi's Sarcoma"
+  - "name": "Sweat"
+    "title":
+      "en": "Sweat"
+  - "name": "Hidradenitis Suppurativa"
+    "title":
+      "en": "Hidradenitis Suppurativa"
+  - "name": "Melanoma"
+    "title":
+      "en": "Melanoma"
+  - "name": "Leishmaniasis"
+    "title":
+      "en": "Leishmaniasis"
+  - "name": "Anatomy"
+    "title":
+      "en": "Anatomy"
+  - "name": "Hair Problems"
+    "title":
+      "en": "Hair Problems"
+  - "name": "Skin Pigmentation Disorders"
+    "title":
+      "en": "Skin Pigmentation Disorders"
+  - "name": "Warts"
+    "title":
+      "en": "Warts"
+  - "name": "Fifth Disease"
+    "title":
+      "en": "Fifth Disease"
+  - "name": "Scars"
+    "title":
+      "en": "Scars"
+  - "name": "Birthmarks"
+    "title":
+      "en": "Birthmarks"
+  - "name": "Burns"
+    "title":
+      "en": "Burns"
+  - "name": "Scabies"
+    "title":
+      "en": "Scabies"
+  - "name": "Porphyria"
+    "title":
+      "en": "Porphyria"
+  - "name": "Rubella"
+    "title":
+      "en": "Rubella"
+  - "name": "Polymyalgia Rheumatica"
+    "title":
+      "en": "Polymyalgia Rheumatica"
+  - "name": "Behcet's Syndrome"
+    "title":
+      "en": "Behcet's Syndrome"
+  - "name": "Hives"
+    "title":
+      "en": "Hives"
+  - "name": "Corns and Calluses"
+    "title":
+      "en": "Corns and Calluses"
+  - "name": "Hair Loss"
+    "title":
+      "en": "Hair Loss"
+  - "name": "Itching"
+    "title":
+      "en": "Itching"
+  - "name": "Tick Bites"
+    "title":
+      "en": "Tick Bites"
+  - "name": "Skin Cancer"
+    "title":
+      "en": "Skin Cancer"
+  - "name": "Vitiligo"
+    "title":
+      "en": "Vitiligo"
+  - "name": "Sun Exposure"
+    "title":
+      "en": "Sun Exposure"
+  - "name": "Poison Ivy, Oak, and Sumac"
+    "title":
+      "en": "Poison Ivy, Oak, and Sumac"
+  - "name": "Measles"
+    "title":
+      "en": "Measles"
+  - "name": "Eczema"
+    "title":
+      "en": "Eczema"
+  - "name": "Bruises"
+    "title":
+      "en": "Bruises"
+  - "name": "Shingles"
+    "title":
+      "en": "Shingles"
+  - "name": "Cosmetics"
+    "title":
+      "en": "Cosmetics"
+  - "name": "Scleroderma"
+    "title":
+      "en": "Scleroderma"
+  - "name": "Athlete's Foot"
+    "title":
+      "en": "Athlete's Foot"
+  - "name": "Rosacea"
+    "title":
+      "en": "Rosacea"
+  - "name": "Blisters"
+    "title":
+      "en": "Blisters"
+  - "name": "Tinea Infections"
+    "title":
+      "en": "Tinea Infections"
+  - "name": "Psoriasis"
+    "title":
+      "en": "Psoriasis"
+  - "name": "Acne"
+    "title":
+      "en": "Acne"
+  - "name": "Pemphigus"
+    "title":
+      "en": "Pemphigus"
+  - "name": "Chickenpox"
+    "title":
+      "en": "Chickenpox"
+  - "name": "Piercing and Tattoos"
+    "title":
+      "en": "Piercing and Tattoos"
+  - "name": "Rashes"
+    "title":
+      "en": "Rashes"
+  - "name": "Moles"
+    "title":
+      "en": "Moles"
+  - "name": "Skin Infections"
+    "title":
+      "en": "Skin Infections"
+  - "name": "Skin Conditions"
+    "title":
+      "en": "Skin Conditions"
+  - "name": "Wounds and Injuries"
+    "title":
+      "en": "Wounds and Injuries"
+  - "name": "Fungal Infections"
+    "title":
+      "en": "Fungal Infections"
+  - "name": "Dandruff, Cradle Cap, and Other Scalp Conditions"
+    "title":
+      "en": "Dandruff, Cradle Cap, and Other Scalp Conditions"
+  - "name": "Impetigo"
+    "title":
+      "en": "Impetigo"
+  - "name": "Insect Bites and Stings"
+    "title":
+      "en": "Insect Bites and Stings"
+  - "name": "Kawasaki Disease"
+    "title":
+      "en": "Kawasaki Disease"
+- "name": "Lungs and Breathing"
+  "title":
+    "en": "Lungs and Breathing"
+  "terms":
+  - "name": "Asbestos"
+    "title":
+      "en": "Asbestos"
+  - "name": "Eosinophilic Disorders"
+    "title":
+      "en": "Eosinophilic Disorders"
+  - "name": "Mesothelioma"
+    "title":
+      "en": "Mesothelioma"
+  - "name": "Lung Transplantation"
+    "title":
+      "en": "Lung Transplantation"
+  - "name": "Granulomatosis with Polyangiitis"
+    "title":
+      "en": "Granulomatosis with Polyangiitis"
+  - "name": "Acute Bronchitis"
+    "title":
+      "en": "Acute Bronchitis"
+  - "name": "Bird Flu"
+    "title":
+      "en": "Bird Flu"
+  - "name": "Breathing Problems"
+    "title":
+      "en": "Breathing Problems"
+  - "name": "Coronavirus Infections"
+    "title":
+      "en": "Coronavirus Infections"
+  - "name": "Choking"
+    "title":
+      "en": "Choking"
+  - "name": "Sleep Apnea"
+    "title":
+      "en": "Sleep Apnea"
+  - "name": "Head and Neck Cancer"
+    "title":
+      "en": "Head and Neck Cancer"
+  - "name": "Bronchial Disorders"
+    "title":
+      "en": "Bronchial Disorders"
+  - "name": "Anatomy"
+    "title":
+      "en": "Anatomy"
+  - "name": "Asthma"
+    "title":
+      "en": "Asthma"
+  - "name": "Snoring"
+    "title":
+      "en": "Snoring"
+  - "name": "Tuberculosis"
+    "title":
+      "en": "Tuberculosis"
+  - "name": "Alpha-1 Antitrypsin Deficiency"
+    "title":
+      "en": "Alpha-1 Antitrypsin Deficiency"
+  - "name": "Pulmonary Fibrosis"
+    "title":
+      "en": "Pulmonary Fibrosis"
+  - "name": "Inhalation Injuries"
+    "title":
+      "en": "Inhalation Injuries"
+  - "name": "Croup"
+    "title":
+      "en": "Croup"
+  - "name": "Pneumocystis Infections"
+    "title":
+      "en": "Pneumocystis Infections"
+  - "name": "Smoking"
+    "title":
+      "en": "Smoking"
+  - "name": "Pneumonia"
+    "title":
+      "en": "Pneumonia"
+  - "name": "Lung Cancer"
+    "title":
+      "en": "Lung Cancer"
+  - "name": "Pulmonary Rehabilitation"
+    "title":
+      "en": "Pulmonary Rehabilitation"
+  - "name": "E-Cigarettes"
+    "title":
+      "en": "E-Cigarettes"
+  - "name": "Chronic Bronchitis"
+    "title":
+      "en": "Chronic Bronchitis"
+  - "name": "Respiratory Failure"
+    "title":
+      "en": "Respiratory Failure"
+  - "name": "Flu"
+    "title":
+      "en": "Flu"
+  - "name": "Sinusitis"
+    "title":
+      "en": "Sinusitis"
+  - "name": "Oxygen Therapy"
+    "title":
+      "en": "Oxygen Therapy"
+  - "name": "Fistulas"
+    "title":
+      "en": "Fistulas"
+  - "name": "H1N1 Flu (Swine Flu)"
+    "title":
+      "en": "H1N1 Flu (Swine Flu)"
+  - "name": "Pulmonary Hypertension"
+    "title":
+      "en": "Pulmonary Hypertension"
+  - "name": "Tracheal Disorders"
+    "title":
+      "en": "Tracheal Disorders"
+  - "name": "Cystic Fibrosis"
+    "title":
+      "en": "Cystic Fibrosis"
+  - "name": "Sarcoidosis"
+    "title":
+      "en": "Sarcoidosis"
+  - "name": "Cough"
+    "title":
+      "en": "Cough"
+  - "name": "Respiratory Syncytial Virus Infections"
+    "title":
+      "en": "Respiratory Syncytial Virus Infections"
+  - "name": "Pleural Disorders"
+    "title":
+      "en": "Pleural Disorders"
+  - "name": "Throat Disorders"
+    "title":
+      "en": "Throat Disorders"
+  - "name": "Whooping Cough"
+    "title":
+      "en": "Whooping Cough"
+  - "name": "Asthma in Children"
+    "title":
+      "en": "Asthma in Children"
+  - "name": "Legionnaires' Disease"
+    "title":
+      "en": "Legionnaires' Disease"
+  - "name": "Pulmonary Embolism"
+    "title":
+      "en": "Pulmonary Embolism"
+  - "name": "Lung Diseases"
+    "title":
+      "en": "Lung Diseases"
+  - "name": "Emphysema"
+    "title":
+      "en": "Emphysema"
+  - "name": "Collapsed Lung"
+    "title":
+      "en": "Collapsed Lung"
+  - "name": "COPD"
+    "title":
+      "en": "COPD"
+  - "name": "Interstitial Lung Diseases"
+    "title":
+      "en": "Interstitial Lung Diseases"
