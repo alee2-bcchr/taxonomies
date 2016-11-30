@@ -1,0 +1,1250 @@
+"name": "MedlinePlus_Disorders_Conditions"
+"title":
+  "en": "MedlinePlus Disorders and Conditions"
+"author": "MedlinePlus.gov"
+"vocabularies":
+- "name": "GeneticsBirth_Defects"
+  "title":
+    "en": "Genetics/Birth Defects"
+  "terms":
+  - "name": "Ataxia_Telangiectasia"
+    "title":
+      "en": "Ataxia Telangiectasia"
+  - "name": "Pregnancy_and_Medicines"
+    "title":
+      "en": "Pregnancy and Medicines"
+  - "name": "Genetic_Testing"
+    "title":
+      "en": "Genetic Testing"
+  - "name": "Birth_Defects"
+    "title":
+      "en": "Birth Defects"
+  - "name": "Tourette_Syndrome"
+    "title":
+      "en": "Tourette Syndrome"
+  - "name": "Color_Blindness"
+    "title":
+      "en": "Color Blindness"
+  - "name": "Genes_and_Gene_Therapy"
+    "title":
+      "en": "Genes and Gene Therapy"
+  - "name": "Metabolic_Disorders"
+    "title":
+      "en": "Metabolic Disorders"
+  - "name": "Genetic_Counseling"
+    "title":
+      "en": "Genetic Counseling"
+  - "name": "Genetic_Disorders"
+    "title":
+      "en": "Genetic Disorders"
+  - "name": "CharcotMarieTooth_Disease"
+    "title":
+      "en": "Charcot-Marie-Tooth Disease"
+  - "name": "Genetic_Brain_Disorders"
+    "title":
+      "en": "Genetic Brain Disorders"
+  - "name": "Down_Syndrome"
+    "title":
+      "en": "Down Syndrome"
+  - "name": "Sickle_Cell_Anemia"
+    "title":
+      "en": "Sickle Cell Anemia"
+  - "name": "Von_HippelLindau_Disease"
+    "title":
+      "en": "Von Hippel-Lindau Disease"
+  - "name": "Gaucher_Disease"
+    "title":
+      "en": "Gaucher Disease"
+  - "name": "EhlersDanlos_Syndrome"
+    "title":
+      "en": "Ehlers-Danlos Syndrome"
+  - "name": "Chiari_Malformation"
+    "title":
+      "en": "Chiari Malformation"
+  - "name": "Neural_Tube_Defects"
+    "title":
+      "en": "Neural Tube Defects"
+  - "name": "Phenylketonuria"
+    "title":
+      "en": "Phenylketonuria"
+  - "name": "Fetal_Alcohol_Spectrum_Disorders"
+    "title":
+      "en": "Fetal Alcohol Spectrum Disorders"
+  - "name": "Osteogenesis_Imperfecta"
+    "title":
+      "en": "Osteogenesis Imperfecta"
+  - "name": "Congenital_Heart_Defects"
+    "title":
+      "en": "Congenital Heart Defects"
+  - "name": "Neurofibromatosis"
+    "title":
+      "en": "Neurofibromatosis"
+  - "name": "Spina_Bifida"
+    "title":
+      "en": "Spina Bifida"
+  - "name": "Alpha1_Antitrypsin_Deficiency"
+    "title":
+      "en": "Alpha-1 Antitrypsin Deficiency"
+  - "name": "TaySachs_Disease"
+    "title":
+      "en": "Tay-Sachs Disease"
+  - "name": "Hydrocephalus"
+    "title":
+      "en": "Hydrocephalus"
+  - "name": "Newborn_Screening"
+    "title":
+      "en": "Newborn Screening"
+  - "name": "Tuberous_Sclerosis"
+    "title":
+      "en": "Tuberous Sclerosis"
+  - "name": "Leukodystrophies"
+    "title":
+      "en": "Leukodystrophies"
+  - "name": "G6PD_Deficiency"
+    "title":
+      "en": "G6PD Deficiency"
+  - "name": "Spinal_Muscular_Atrophy"
+    "title":
+      "en": "Spinal Muscular Atrophy"
+  - "name": "Dwarfism"
+    "title":
+      "en": "Dwarfism"
+  - "name": "Marfan_Syndrome"
+    "title":
+      "en": "Marfan Syndrome"
+  - "name": "Hemophilia"
+    "title":
+      "en": "Hemophilia"
+  - "name": "Craniofacial_Abnormalities"
+    "title":
+      "en": "Craniofacial Abnormalities"
+  - "name": "Muscular_Dystrophy"
+    "title":
+      "en": "Muscular Dystrophy"
+  - "name": "Usher_Syndrome"
+    "title":
+      "en": "Usher Syndrome"
+  - "name": "Wilson_Disease"
+    "title":
+      "en": "Wilson Disease"
+  - "name": "Turner_Syndrome"
+    "title":
+      "en": "Turner Syndrome"
+  - "name": "Hemochromatosis"
+    "title":
+      "en": "Hemochromatosis"
+  - "name": "Cystic_Fibrosis"
+    "title":
+      "en": "Cystic Fibrosis"
+  - "name": "Fragile_X_Syndrome"
+    "title":
+      "en": "Fragile X Syndrome"
+  - "name": "Cloning"
+    "title":
+      "en": "Cloning"
+  - "name": "Klinefelters_Syndrome"
+    "title":
+      "en": "Klinefelter's Syndrome"
+  - "name": "Prenatal_Testing"
+    "title":
+      "en": "Prenatal Testing"
+  - "name": "Rare_Diseases"
+    "title":
+      "en": "Rare Diseases"
+  - "name": "Cleft_Lip_and_Palate"
+    "title":
+      "en": "Cleft Lip and Palate"
+  - "name": "Brain_Malformations"
+    "title":
+      "en": "Brain Malformations"
+  - "name": "Family_History"
+    "title":
+      "en": "Family History"
+  - "name": "Huntingtons_Disease"
+    "title":
+      "en": "Huntington's Disease"
+  - "name": "Cerebral_Palsy"
+    "title":
+      "en": "Cerebral Palsy"
+  - "name": "Friedreichs_Ataxia"
+    "title":
+      "en": "Friedreich's Ataxia"
+  - "name": "Rett_Syndrome"
+    "title":
+      "en": "Rett Syndrome"
+  - "name": "PraderWilli_Syndrome"
+    "title":
+      "en": "Prader-Willi Syndrome"
+- "name": "Metabolic_Problems"
+  "title":
+    "en": "Metabolic Problems"
+  "terms":
+  - "name": "Obesity_in_Children"
+    "title":
+      "en": "Obesity in Children"
+  - "name": "Blood_Sugar"
+    "title":
+      "en": "Blood Sugar"
+  - "name": "Body_Weight"
+    "title":
+      "en": "Body Weight"
+  - "name": "Diabetes_Complications"
+    "title":
+      "en": "Diabetes Complications"
+  - "name": "Lipid_Metabolism_Disorders"
+    "title":
+      "en": "Lipid Metabolism Disorders"
+  - "name": "Leukodystrophies"
+    "title":
+      "en": "Leukodystrophies"
+  - "name": "Metabolic_Disorders"
+    "title":
+      "en": "Metabolic Disorders"
+  - "name": "Dehydration"
+    "title":
+      "en": "Dehydration"
+  - "name": "Mitochondrial_Diseases"
+    "title":
+      "en": "Mitochondrial Diseases"
+  - "name": "Genetic_Brain_Disorders"
+    "title":
+      "en": "Genetic Brain Disorders"
+  - "name": "Hyperglycemia"
+    "title":
+      "en": "Hyperglycemia"
+  - "name": "Rickets"
+    "title":
+      "en": "Rickets"
+  - "name": "Metabolic_Syndrome"
+    "title":
+      "en": "Metabolic Syndrome"
+  - "name": "Celiac_Disease"
+    "title":
+      "en": "Celiac Disease"
+  - "name": "Gaucher_Disease"
+    "title":
+      "en": "Gaucher Disease"
+  - "name": "Wilson_Disease"
+    "title":
+      "en": "Wilson Disease"
+  - "name": "Weight_Loss_Surgery"
+    "title":
+      "en": "Weight Loss Surgery"
+  - "name": "Obesity"
+    "title":
+      "en": "Obesity"
+  - "name": "Phenylketonuria"
+    "title":
+      "en": "Phenylketonuria"
+  - "name": "Hemochromatosis"
+    "title":
+      "en": "Hemochromatosis"
+  - "name": "Lactose_Intolerance"
+    "title":
+      "en": "Lactose Intolerance"
+  - "name": "Hypoglycemia"
+    "title":
+      "en": "Hypoglycemia"
+  - "name": "Amino_Acid_Metabolism_Disorders"
+    "title":
+      "en": "Amino Acid Metabolism Disorders"
+  - "name": "Diabetes_Insipidus"
+    "title":
+      "en": "Diabetes Insipidus"
+  - "name": "Amyloidosis"
+    "title":
+      "en": "Amyloidosis"
+  - "name": "Carbohydrate_Metabolism_Disorders"
+    "title":
+      "en": "Carbohydrate Metabolism Disorders"
+  - "name": "Diabetes"
+    "title":
+      "en": "Diabetes"
+- "name": "Infections"
+  "title":
+    "en": "Infections"
+  "terms":
+  - "name": "Head_Lice"
+    "title":
+      "en": "Head Lice"
+  - "name": "Yeast_Infections"
+    "title":
+      "en": "Yeast Infections"
+  - "name": "Hepatitis"
+    "title":
+      "en": "Hepatitis"
+  - "name": "Bacterial_Infections"
+    "title":
+      "en": "Bacterial Infections"
+  - "name": "Acute_Bronchitis"
+    "title":
+      "en": "Acute Bronchitis"
+  - "name": "Infectious_Arthritis"
+    "title":
+      "en": "Infectious Arthritis"
+  - "name": "Mumps"
+    "title":
+      "en": "Mumps"
+  - "name": "Bird_Flu"
+    "title":
+      "en": "Bird Flu"
+  - "name": "Monkeypox_Virus_Infections"
+    "title":
+      "en": "Monkeypox Virus Infections"
+  - "name": "Zika_Virus"
+    "title":
+      "en": "Zika Virus"
+  - "name": "Pelvic_Inflammatory_Disease"
+    "title":
+      "en": "Pelvic Inflammatory Disease"
+  - "name": "Antibiotic_Resistance"
+    "title":
+      "en": "Antibiotic Resistance"
+  - "name": "Listeria_Infections"
+    "title":
+      "en": "Listeria Infections"
+  - "name": "Pinworms"
+    "title":
+      "en": "Pinworms"
+  - "name": "Mycobacterial_Infections"
+    "title":
+      "en": "Mycobacterial Infections"
+  - "name": "Chagas_Disease"
+    "title":
+      "en": "Chagas Disease"
+  - "name": "Staphylococcal_Infections"
+    "title":
+      "en": "Staphylococcal Infections"
+  - "name": "Fifth_Disease"
+    "title":
+      "en": "Fifth Disease"
+  - "name": "Botulism"
+    "title":
+      "en": "Botulism"
+  - "name": "Tuberculosis"
+    "title":
+      "en": "Tuberculosis"
+  - "name": "Trichomoniasis"
+    "title":
+      "en": "Trichomoniasis"
+  - "name": "Infectious_Diseases"
+    "title":
+      "en": "Infectious Diseases"
+  - "name": "Pneumocystis_Infections"
+    "title":
+      "en": "Pneumocystis Infections"
+  - "name": "Pneumococcal_Infections"
+    "title":
+      "en": "Pneumococcal Infections"
+  - "name": "Pneumonia"
+    "title":
+      "en": "Pneumonia"
+  - "name": "Campylobacter_Infections"
+    "title":
+      "en": "Campylobacter Infections"
+  - "name": "Flu"
+    "title":
+      "en": "Flu"
+  - "name": "Sinusitis"
+    "title":
+      "en": "Sinusitis"
+  - "name": "HPV"
+    "title":
+      "en": "HPV"
+  - "name": "Cryptosporidiosis"
+    "title":
+      "en": "Cryptosporidiosis"
+  - "name": "Haemophilus_Infections"
+    "title":
+      "en": "Haemophilus Infections"
+  - "name": "Toxoplasmosis"
+    "title":
+      "en": "Toxoplasmosis"
+  - "name": "Chlamydia_Infections"
+    "title":
+      "en": "Chlamydia Infections"
+  - "name": "Syphilis"
+    "title":
+      "en": "Syphilis"
+  - "name": "Genital_Herpes"
+    "title":
+      "en": "Genital Herpes"
+  - "name": "Shingles"
+    "title":
+      "en": "Shingles"
+  - "name": "Lyme_Disease"
+    "title":
+      "en": "Lyme Disease"
+  - "name": "H1N1_Flu_Swine_Flu"
+    "title":
+      "en": "H1N1 Flu (Swine Flu)"
+  - "name": "Childhood_Immunization"
+    "title":
+      "en": "Childhood Immunization"
+  - "name": "HIVAIDS"
+    "title":
+      "en": "HIV/AIDS"
+  - "name": "Hepatitis_Testing"
+    "title":
+      "en": "Hepatitis Testing"
+  - "name": "Tinea_Infections"
+    "title":
+      "en": "Tinea Infections"
+  - "name": "HIVAIDS_and_Infections"
+    "title":
+      "en": "HIV/AIDS and Infections"
+  - "name": "Chickenpox"
+    "title":
+      "en": "Chickenpox"
+  - "name": "Infectious_Mononucleosis"
+    "title":
+      "en": "Infectious Mononucleosis"
+  - "name": "Skin_Infections"
+    "title":
+      "en": "Skin Infections"
+  - "name": "Fever"
+    "title":
+      "en": "Fever"
+  - "name": "Rotavirus_Infections"
+    "title":
+      "en": "Rotavirus Infections"
+  - "name": "Sexually_Transmitted_Diseases"
+    "title":
+      "en": "Sexually Transmitted Diseases"
+  - "name": "Antibiotics"
+    "title":
+      "en": "Antibiotics"
+  - "name": "Fungal_Infections"
+    "title":
+      "en": "Fungal Infections"
+  - "name": "Hantavirus_Infections"
+    "title":
+      "en": "Hantavirus Infections"
+  - "name": "Rabies"
+    "title":
+      "en": "Rabies"
+  - "name": "Aspergillosis"
+    "title":
+      "en": "Aspergillosis"
+  - "name": "Norovirus_Infections"
+    "title":
+      "en": "Norovirus Infections"
+  - "name": "Giardia_Infections"
+    "title":
+      "en": "Giardia Infections"
+  - "name": "Tetanus"
+    "title":
+      "en": "Tetanus"
+  - "name": "Meningococcal_Infections"
+    "title":
+      "en": "Meningococcal Infections"
+  - "name": "Pinkeye"
+    "title":
+      "en": "Pinkeye"
+  - "name": "Infection_Control"
+    "title":
+      "en": "Infection Control"
+  - "name": "Cellulitis"
+    "title":
+      "en": "Cellulitis"
+  - "name": "West_Nile_Virus"
+    "title":
+      "en": "West Nile Virus"
+  - "name": "Clostridium_Difficile_Infections"
+    "title":
+      "en": "Clostridium Difficile Infections"
+  - "name": "Germs_and_Hygiene"
+    "title":
+      "en": "Germs and Hygiene"
+  - "name": "MRSA"
+    "title":
+      "en": "MRSA"
+  - "name": "Infections_and_Pregnancy"
+    "title":
+      "en": "Infections and Pregnancy"
+  - "name": "Streptococcal_Infections"
+    "title":
+      "en": "Streptococcal Infections"
+  - "name": "Helicobacter_Pylori_Infections"
+    "title":
+      "en": "Helicobacter Pylori Infections"
+  - "name": "Lice"
+    "title":
+      "en": "Lice"
+  - "name": "Coronavirus_Infections"
+    "title":
+      "en": "Coronavirus Infections"
+  - "name": "Smallpox"
+    "title":
+      "en": "Smallpox"
+  - "name": "Immunization"
+    "title":
+      "en": "Immunization"
+  - "name": "Animal_Diseases_and_Your_Health"
+    "title":
+      "en": "Animal Diseases and Your Health"
+  - "name": "Malaria"
+    "title":
+      "en": "Malaria"
+  - "name": "Abscess"
+    "title":
+      "en": "Abscess"
+  - "name": "Cytomegalovirus_Infections"
+    "title":
+      "en": "Cytomegalovirus Infections"
+  - "name": "Leishmaniasis"
+    "title":
+      "en": "Leishmaniasis"
+  - "name": "Warts"
+    "title":
+      "en": "Warts"
+  - "name": "Urinary_Tract_Infections"
+    "title":
+      "en": "Urinary Tract Infections"
+  - "name": "Genital_Warts"
+    "title":
+      "en": "Genital Warts"
+  - "name": "Anthrax"
+    "title":
+      "en": "Anthrax"
+  - "name": "Chikungunya"
+    "title":
+      "en": "Chikungunya"
+  - "name": "Sepsis"
+    "title":
+      "en": "Sepsis"
+  - "name": "Cold_Sores"
+    "title":
+      "en": "Cold Sores"
+  - "name": "Scabies"
+    "title":
+      "en": "Scabies"
+  - "name": "Ebola"
+    "title":
+      "en": "Ebola"
+  - "name": "Rubella"
+    "title":
+      "en": "Rubella"
+  - "name": "Histoplasmosis"
+    "title":
+      "en": "Histoplasmosis"
+  - "name": "Bone_Infections"
+    "title":
+      "en": "Bone Infections"
+  - "name": "Gastroenteritis"
+    "title":
+      "en": "Gastroenteritis"
+  - "name": "Chronic_Bronchitis"
+    "title":
+      "en": "Chronic Bronchitis"
+  - "name": "Viral_Infections"
+    "title":
+      "en": "Viral Infections"
+  - "name": "Chronic_Fatigue_Syndrome"
+    "title":
+      "en": "Chronic Fatigue Syndrome"
+  - "name": "E_Coli_Infections"
+    "title":
+      "en": "E. Coli Infections"
+  - "name": "Itching"
+    "title":
+      "en": "Itching"
+  - "name": "Herpes_Simplex"
+    "title":
+      "en": "Herpes Simplex"
+  - "name": "Tick_Bites"
+    "title":
+      "en": "Tick Bites"
+  - "name": "Measles"
+    "title":
+      "en": "Measles"
+  - "name": "Meningitis"
+    "title":
+      "en": "Meningitis"
+  - "name": "Cat_Scratch_Disease"
+    "title":
+      "en": "Cat Scratch Disease"
+  - "name": "Common_Cold"
+    "title":
+      "en": "Common Cold"
+  - "name": "Parasitic_Diseases"
+    "title":
+      "en": "Parasitic Diseases"
+  - "name": "Athletes_Foot"
+    "title":
+      "en": "Athlete's Foot"
+  - "name": "Polio_and_PostPolio_Syndrome"
+    "title":
+      "en": "Polio and Post-Polio Syndrome"
+  - "name": "Salmonella_Infections"
+    "title":
+      "en": "Salmonella Infections"
+  - "name": "Dengue"
+    "title":
+      "en": "Dengue"
+  - "name": "Gonorrhea"
+    "title":
+      "en": "Gonorrhea"
+  - "name": "Hemorrhagic_Fevers"
+    "title":
+      "en": "Hemorrhagic Fevers"
+  - "name": "Diphtheria"
+    "title":
+      "en": "Diphtheria"
+  - "name": "Respiratory_Syncytial_Virus_Infections"
+    "title":
+      "en": "Respiratory Syncytial Virus Infections"
+  - "name": "Plague"
+    "title":
+      "en": "Plague"
+  - "name": "Whooping_Cough"
+    "title":
+      "en": "Whooping Cough"
+  - "name": "Impetigo"
+    "title":
+      "en": "Impetigo"
+  - "name": "Legionnaires_Disease"
+    "title":
+      "en": "Legionnaires' Disease"
+  - "name": "Cholera"
+    "title":
+      "en": "Cholera"
+  - "name": "Hepatitis_C"
+    "title":
+      "en": "Hepatitis C"
+  - "name": "Hepatitis_A"
+    "title":
+      "en": "Hepatitis A"
+  - "name": "Travelers_Health"
+    "title":
+      "en": "Traveler's Health"
+  - "name": "Valley_Fever"
+    "title":
+      "en": "Valley Fever"
+  - "name": "Hepatitis_B"
+    "title":
+      "en": "Hepatitis B"
+- "name": "Mental_Health_and_Behavior"
+  "title":
+    "en": "Mental Health and Behavior"
+  "terms":
+  - "name": "Delirium"
+    "title":
+      "en": "Delirium"
+  - "name": "Developmental_Disabilities"
+    "title":
+      "en": "Developmental Disabilities"
+  - "name": "Bereavement"
+    "title":
+      "en": "Bereavement"
+  - "name": "Dual_Diagnosis"
+    "title":
+      "en": "Dual Diagnosis"
+  - "name": "Learning_Disorders"
+    "title":
+      "en": "Learning Disorders"
+  - "name": "Memory"
+    "title":
+      "en": "Memory"
+  - "name": "Teen_Development"
+    "title":
+      "en": "Teen Development"
+  - "name": "Postpartum_Depression"
+    "title":
+      "en": "Postpartum Depression"
+  - "name": "Schizophrenia"
+    "title":
+      "en": "Schizophrenia"
+  - "name": "Autism_Spectrum_Disorder"
+    "title":
+      "en": "Autism Spectrum Disorder"
+  - "name": "Mental_Health"
+    "title":
+      "en": "Mental Health"
+  - "name": "Suicide"
+    "title":
+      "en": "Suicide"
+  - "name": "Eating_Disorders"
+    "title":
+      "en": "Eating Disorders"
+  - "name": "Panic_Disorder"
+    "title":
+      "en": "Panic Disorder"
+  - "name": "ObsessiveCompulsive_Disorder"
+    "title":
+      "en": "Obsessive-Compulsive Disorder"
+  - "name": "PostTraumatic_Stress_Disorder"
+    "title":
+      "en": "Post-Traumatic Stress Disorder"
+  - "name": "Antidepressants"
+    "title":
+      "en": "Antidepressants"
+  - "name": "Selfharm"
+    "title":
+      "en": "Self-harm"
+  - "name": "Anxiety"
+    "title":
+      "en": "Anxiety"
+  - "name": "Child_Behavior_Disorders"
+    "title":
+      "en": "Child Behavior Disorders"
+  - "name": "Seasonal_Affective_Disorder"
+    "title":
+      "en": "Seasonal Affective Disorder"
+  - "name": "Phobias"
+    "title":
+      "en": "Phobias"
+  - "name": "Teen_Mental_Health"
+    "title":
+      "en": "Teen Mental Health"
+  - "name": "Coping_with_Chronic_Illness"
+    "title":
+      "en": "Coping with Chronic Illness"
+  - "name": "Depression"
+    "title":
+      "en": "Depression"
+  - "name": "Mild_Cognitive_Impairment"
+    "title":
+      "en": "Mild Cognitive Impairment"
+  - "name": "CancerLiving_with_Cancer"
+    "title":
+      "en": "Cancer--Living with Cancer"
+  - "name": "Personality_Disorders"
+    "title":
+      "en": "Personality Disorders"
+  - "name": "Stress"
+    "title":
+      "en": "Stress"
+  - "name": "Mood_Disorders"
+    "title":
+      "en": "Mood Disorders"
+  - "name": "Compulsive_Gambling"
+    "title":
+      "en": "Compulsive Gambling"
+  - "name": "Bipolar_Disorder"
+    "title":
+      "en": "Bipolar Disorder"
+  - "name": "Alzheimers_Disease"
+    "title":
+      "en": "Alzheimer's Disease"
+  - "name": "Attention_Deficit_Hyperactivity_Disorder"
+    "title":
+      "en": "Attention Deficit Hyperactivity Disorder"
+  - "name": "Child_Mental_Health"
+    "title":
+      "en": "Child Mental Health"
+  - "name": "Mental_Disorders"
+    "title":
+      "en": "Mental Disorders"
+  - "name": "Coping_with_Disasters"
+    "title":
+      "en": "Coping with Disasters"
+  - "name": "Psychotic_Disorders"
+    "title":
+      "en": "Psychotic Disorders"
+  - "name": "PraderWilli_Syndrome"
+    "title":
+      "en": "Prader-Willi Syndrome"
+  - "name": "Dementia"
+    "title":
+      "en": "Dementia"
+- "name": "Poisoning_Toxicology_Environmental_Health"
+  "title":
+    "en": "Poisoning, Toxicology, Environmental Health"
+  "terms":
+  - "name": "Asbestos"
+    "title":
+      "en": "Asbestos"
+  - "name": "Arsenic"
+    "title":
+      "en": "Arsenic"
+  - "name": "Carbon_Monoxide_Poisoning"
+    "title":
+      "en": "Carbon Monoxide Poisoning"
+  - "name": "Noise"
+    "title":
+      "en": "Noise"
+  - "name": "Molds"
+    "title":
+      "en": "Molds"
+  - "name": "Indoor_Air_Pollution"
+    "title":
+      "en": "Indoor Air Pollution"
+  - "name": "Lead_Poisoning"
+    "title":
+      "en": "Lead Poisoning"
+  - "name": "Water_Pollution"
+    "title":
+      "en": "Water Pollution"
+  - "name": "Biodefense_and_Bioterrorism"
+    "title":
+      "en": "Biodefense and Bioterrorism"
+  - "name": "Drinking_Water"
+    "title":
+      "en": "Drinking Water"
+  - "name": "Secondhand_Smoke"
+    "title":
+      "en": "Secondhand Smoke"
+  - "name": "Smallpox"
+    "title":
+      "en": "Smallpox"
+  - "name": "Electromagnetic_Fields"
+    "title":
+      "en": "Electromagnetic Fields"
+  - "name": "Environmental_Health"
+    "title":
+      "en": "Environmental Health"
+  - "name": "Radon"
+    "title":
+      "en": "Radon"
+  - "name": "Food_Safety"
+    "title":
+      "en": "Food Safety"
+  - "name": "Pesticides"
+    "title":
+      "en": "Pesticides"
+  - "name": "Hazardous_Waste"
+    "title":
+      "en": "Hazardous Waste"
+  - "name": "Ozone"
+    "title":
+      "en": "Ozone"
+  - "name": "Oil_Spills"
+    "title":
+      "en": "Oil Spills"
+  - "name": "Air_Pollution"
+    "title":
+      "en": "Air Pollution"
+  - "name": "Household_Products"
+    "title":
+      "en": "Household Products"
+  - "name": "Radiation_Exposure"
+    "title":
+      "en": "Radiation Exposure"
+  - "name": "Climate_Change"
+    "title":
+      "en": "Climate Change"
+  - "name": "Foodborne_Illness"
+    "title":
+      "en": "Foodborne Illness"
+  - "name": "Poisoning"
+    "title":
+      "en": "Poisoning"
+  - "name": "Mercury"
+    "title":
+      "en": "Mercury"
+- "name": "Substance_Abuse_Problems"
+  "title":
+    "en": "Substance Abuse Problems"
+  "terms":
+  - "name": "Drug_Abuse"
+    "title":
+      "en": "Drug Abuse"
+  - "name": "Dual_Diagnosis"
+    "title":
+      "en": "Dual Diagnosis"
+  - "name": "Underage_Drinking"
+    "title":
+      "en": "Underage Drinking"
+  - "name": "Fetal_Alcohol_Spectrum_Disorders"
+    "title":
+      "en": "Fetal Alcohol Spectrum Disorders"
+  - "name": "Methamphetamine"
+    "title":
+      "en": "Methamphetamine"
+  - "name": "Inhalants"
+    "title":
+      "en": "Inhalants"
+  - "name": "Alcohol"
+    "title":
+      "en": "Alcohol"
+  - "name": "Drugs_and_Young_People"
+    "title":
+      "en": "Drugs and Young People"
+  - "name": "ECigarettes"
+    "title":
+      "en": "E-Cigarettes"
+  - "name": "Quitting_Smoking"
+    "title":
+      "en": "Quitting Smoking"
+  - "name": "Smoking_and_Youth"
+    "title":
+      "en": "Smoking and Youth"
+  - "name": "Alcoholism_and_Alcohol_Abuse"
+    "title":
+      "en": "Alcoholism and Alcohol Abuse"
+  - "name": "Smokeless_Tobacco"
+    "title":
+      "en": "Smokeless Tobacco"
+  - "name": "Anabolic_Steroids"
+    "title":
+      "en": "Anabolic Steroids"
+  - "name": "Pregnancy_and_Substance_Abuse"
+    "title":
+      "en": "Pregnancy and Substance Abuse"
+  - "name": "Prescription_Drug_Abuse"
+    "title":
+      "en": "Prescription Drug Abuse"
+  - "name": "Marijuana"
+    "title":
+      "en": "Marijuana"
+  - "name": "Cocaine"
+    "title":
+      "en": "Cocaine"
+  - "name": "Club_Drugs"
+    "title":
+      "en": "Club Drugs"
+  - "name": "Heroin"
+    "title":
+      "en": "Heroin"
+  - "name": "Smoking"
+    "title":
+      "en": "Smoking"
+- "name": "Diabetes_Mellitus"
+  "title":
+    "en": "Diabetes Mellitus"
+  "terms":
+  - "name": "Diabetes_Medicines"
+    "title":
+      "en": "Diabetes Medicines"
+  - "name": "Diabetes_and_Pregnancy"
+    "title":
+      "en": "Diabetes and Pregnancy"
+  - "name": "Blood_Sugar"
+    "title":
+      "en": "Blood Sugar"
+  - "name": "Diabetes_Type_2"
+    "title":
+      "en": "Diabetes Type 2"
+  - "name": "Diabetes_Complications"
+    "title":
+      "en": "Diabetes Complications"
+  - "name": "Diabetes_Type_1"
+    "title":
+      "en": "Diabetes Type 1"
+  - "name": "Diabetic_Foot"
+    "title":
+      "en": "Diabetic Foot"
+  - "name": "Diabetic_Eye_Problems"
+    "title":
+      "en": "Diabetic Eye Problems"
+  - "name": "Diabetic_Nerve_Problems"
+    "title":
+      "en": "Diabetic Nerve Problems"
+  - "name": "Prediabetes"
+    "title":
+      "en": "Prediabetes"
+  - "name": "Hyperglycemia"
+    "title":
+      "en": "Hyperglycemia"
+  - "name": "A1C"
+    "title":
+      "en": "A1C"
+  - "name": "Diabetic_Kidney_Problems"
+    "title":
+      "en": "Diabetic Kidney Problems"
+  - "name": "Metabolic_Syndrome"
+    "title":
+      "en": "Metabolic Syndrome"
+  - "name": "Diabetic_Heart_Disease"
+    "title":
+      "en": "Diabetic Heart Disease"
+  - "name": "Diabetes"
+    "title":
+      "en": "Diabetes"
+  - "name": "Diabetes_in_Children_and_Teens"
+    "title":
+      "en": "Diabetes in Children and Teens"
+  - "name": "Diabetic_Diet"
+    "title":
+      "en": "Diabetic Diet"
+- "name": "Injuries_and_Wounds"
+  "title":
+    "en": "Injuries and Wounds"
+  "terms":
+  - "name": "Finger_Injuries_and_Disorders"
+    "title":
+      "en": "Finger Injuries and Disorders"
+  - "name": "Frostbite"
+    "title":
+      "en": "Frostbite"
+  - "name": "CPR"
+    "title":
+      "en": "CPR"
+  - "name": "Heel_Injuries_and_Disorders"
+    "title":
+      "en": "Heel Injuries and Disorders"
+  - "name": "Eye_Injuries"
+    "title":
+      "en": "Eye Injuries"
+  - "name": "Child_Abuse"
+    "title":
+      "en": "Child Abuse"
+  - "name": "Electrical_Injuries"
+    "title":
+      "en": "Electrical Injuries"
+  - "name": "Toe_Injuries_and_Disorders"
+    "title":
+      "en": "Toe Injuries and Disorders"
+  - "name": "Ankle_Injuries_and_Disorders"
+    "title":
+      "en": "Ankle Injuries and Disorders"
+  - "name": "Traumatic_Brain_Injury"
+    "title":
+      "en": "Traumatic Brain Injury"
+  - "name": "Bed_Bugs"
+    "title":
+      "en": "Bed Bugs"
+  - "name": "Brachial_Plexus_Injuries"
+    "title":
+      "en": "Brachial Plexus Injuries"
+  - "name": "Heat_Illness"
+    "title":
+      "en": "Heat Illness"
+  - "name": "Head_Injuries"
+    "title":
+      "en": "Head Injuries"
+  - "name": "Wrist_Injuries_and_Disorders"
+    "title":
+      "en": "Wrist Injuries and Disorders"
+  - "name": "Back_Injuries"
+    "title":
+      "en": "Back Injuries"
+  - "name": "Leg_Injuries_and_Disorders"
+    "title":
+      "en": "Leg Injuries and Disorders"
+  - "name": "Neck_Injuries_and_Disorders"
+    "title":
+      "en": "Neck Injuries and Disorders"
+  - "name": "Sexual_Assault"
+    "title":
+      "en": "Sexual Assault"
+  - "name": "Choking"
+    "title":
+      "en": "Choking"
+  - "name": "Facial_Injuries_and_Disorders"
+    "title":
+      "en": "Facial Injuries and Disorders"
+  - "name": "Foreign_Bodies"
+    "title":
+      "en": "Foreign Bodies"
+  - "name": "Dislocations"
+    "title":
+      "en": "Dislocations"
+  - "name": "Hand_Injuries_and_Disorders"
+    "title":
+      "en": "Hand Injuries and Disorders"
+  - "name": "Radiation_Exposure"
+    "title":
+      "en": "Radiation Exposure"
+  - "name": "Spinal_Cord_Injuries"
+    "title":
+      "en": "Spinal Cord Injuries"
+  - "name": "Concussion"
+    "title":
+      "en": "Concussion"
+  - "name": "Knee_Injuries_and_Disorders"
+    "title":
+      "en": "Knee Injuries and Disorders"
+  - "name": "Sports_Injuries"
+    "title":
+      "en": "Sports Injuries"
+  - "name": "Burns"
+    "title":
+      "en": "Burns"
+  - "name": "Inhalation_Injuries"
+    "title":
+      "en": "Inhalation Injuries"
+  - "name": "Hypothermia"
+    "title":
+      "en": "Hypothermia"
+  - "name": "Drowning"
+    "title":
+      "en": "Drowning"
+  - "name": "First_Aid"
+    "title":
+      "en": "First Aid"
+  - "name": "Spider_Bites"
+    "title":
+      "en": "Spider Bites"
+  - "name": "Bleeding"
+    "title":
+      "en": "Bleeding"
+  - "name": "Tick_Bites"
+    "title":
+      "en": "Tick Bites"
+  - "name": "Rotator_Cuff_Injuries"
+    "title":
+      "en": "Rotator Cuff Injuries"
+  - "name": "Animal_Bites"
+    "title":
+      "en": "Animal Bites"
+  - "name": "Arm_Injuries_and_Disorders"
+    "title":
+      "en": "Arm Injuries and Disorders"
+  - "name": "Bruises"
+    "title":
+      "en": "Bruises"
+  - "name": "Domestic_Violence"
+    "title":
+      "en": "Domestic Violence"
+  - "name": "Elbow_Injuries_and_Disorders"
+    "title":
+      "en": "Elbow Injuries and Disorders"
+  - "name": "Shoulder_Injuries_and_Disorders"
+    "title":
+      "en": "Shoulder Injuries and Disorders"
+  - "name": "Adhesions"
+    "title":
+      "en": "Adhesions"
+  - "name": "Elder_Abuse"
+    "title":
+      "en": "Elder Abuse"
+  - "name": "Hip_Injuries_and_Disorders"
+    "title":
+      "en": "Hip Injuries and Disorders"
+  - "name": "Jaw_Injuries_and_Disorders"
+    "title":
+      "en": "Jaw Injuries and Disorders"
+  - "name": "Sprains_and_Strains"
+    "title":
+      "en": "Sprains and Strains"
+  - "name": "Fractures"
+    "title":
+      "en": "Fractures"
+  - "name": "Wounds_and_Injuries"
+    "title":
+      "en": "Wounds and Injuries"
+  - "name": "Foot_Injuries_and_Disorders"
+    "title":
+      "en": "Foot Injuries and Disorders"
+  - "name": "Insect_Bites_and_Stings"
+    "title":
+      "en": "Insect Bites and Stings"
+  - "name": "Chest_Injuries_and_Disorders"
+    "title":
+      "en": "Chest Injuries and Disorders"
+- "name": "Pregnancy_and_Reproduction"
+  "title":
+    "en": "Pregnancy and Reproduction"
+  "terms":
+  - "name": "Female_Infertility"
+    "title":
+      "en": "Female Infertility"
+  - "name": "Pregnancy_and_Medicines"
+    "title":
+      "en": "Pregnancy and Medicines"
+  - "name": "Genetic_Testing"
+    "title":
+      "en": "Genetic Testing"
+  - "name": "Reproductive_Hazards"
+    "title":
+      "en": "Reproductive Hazards"
+  - "name": "HIVAIDS_and_Pregnancy"
+    "title":
+      "en": "HIV/AIDS and Pregnancy"
+  - "name": "Stillbirth"
+    "title":
+      "en": "Stillbirth"
+  - "name": "Postpartum_Depression"
+    "title":
+      "en": "Postpartum Depression"
+  - "name": "Ectopic_Pregnancy"
+    "title":
+      "en": "Ectopic Pregnancy"
+  - "name": "Abortion"
+    "title":
+      "en": "Abortion"
+  - "name": "Genetic_Counseling"
+    "title":
+      "en": "Genetic Counseling"
+  - "name": "Premature_Ovarian_Failure"
+    "title":
+      "en": "Premature Ovarian Failure"
+  - "name": "Infections_and_Pregnancy"
+    "title":
+      "en": "Infections and Pregnancy"
+  - "name": "Teenage_Pregnancy"
+    "title":
+      "en": "Teenage Pregnancy"
+  - "name": "Birth_Control"
+    "title":
+      "en": "Birth Control"
+  - "name": "Premature_Babies"
+    "title":
+      "en": "Premature Babies"
+  - "name": "Adoption"
+    "title":
+      "en": "Adoption"
+  - "name": "Tumors_and_Pregnancy"
+    "title":
+      "en": "Tumors and Pregnancy"
+  - "name": "Twins_Triplets_Multiple_Births"
+    "title":
+      "en": "Twins, Triplets, Multiple Births"
+  - "name": "Childbirth_Problems"
+    "title":
+      "en": "Childbirth Problems"
+  - "name": "Diabetes_and_Pregnancy"
+    "title":
+      "en": "Diabetes and Pregnancy"
+  - "name": "Health_Problems_in_Pregnancy"
+    "title":
+      "en": "Health Problems in Pregnancy"
+  - "name": "Rh_Incompatibility"
+    "title":
+      "en": "Rh Incompatibility"
+  - "name": "Fetal_Alcohol_Spectrum_Disorders"
+    "title":
+      "en": "Fetal Alcohol Spectrum Disorders"
+  - "name": "High_Blood_Pressure_in_Pregnancy"
+    "title":
+      "en": "High Blood Pressure in Pregnancy"
+  - "name": "Prenatal_Testing"
+    "title":
+      "en": "Prenatal Testing"
+  - "name": "Anatomy"
+    "title":
+      "en": "Anatomy"
+  - "name": "Tubal_Ligation"
+    "title":
+      "en": "Tubal Ligation"
+  - "name": "Postpartum_Care"
+    "title":
+      "en": "Postpartum Care"
+  - "name": "Pregnancy"
+    "title":
+      "en": "Pregnancy"
+  - "name": "Birth_Weight"
+    "title":
+      "en": "Birth Weight"
+  - "name": "Cesarean_Section"
+    "title":
+      "en": "Cesarean Section"
+  - "name": "Fetal_Health_and_Development"
+    "title":
+      "en": "Fetal Health and Development"
+  - "name": "Pregnancy_and_Nutrition"
+    "title":
+      "en": "Pregnancy and Nutrition"
+  - "name": "Vasectomy"
+    "title":
+      "en": "Vasectomy"
+  - "name": "Infertility"
+    "title":
+      "en": "Infertility"
+  - "name": "Pregnancy_and_Substance_Abuse"
+    "title":
+      "en": "Pregnancy and Substance Abuse"
+  - "name": "Miscarriage"
+    "title":
+      "en": "Miscarriage"
+  - "name": "Childbirth"
+    "title":
+      "en": "Childbirth"
+  - "name": "Preconception_Care"
+    "title":
+      "en": "Preconception Care"
+  - "name": "Prenatal_Care"
+    "title":
+      "en": "Prenatal Care"

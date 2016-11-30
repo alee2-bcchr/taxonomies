@@ -1,0 +1,386 @@
+"name": "MedlinePlus_Diagnosis_Therapy"
+"title":
+  "en": "MedlinePlus Diagnosis and Therapy"
+"author": "MedlinePlus.gov"
+"vocabularies":
+- "name": "Complementary_and_Alternative_Therapies"
+  "title":
+    "en": "Complementary and Alternative Therapies"
+  "terms":
+  - "name": "Chiropractic"
+    "title":
+      "en": "Chiropractic"
+  - "name": "Acupuncture"
+    "title":
+      "en": "Acupuncture"
+  - "name": "Dietary_Supplements"
+    "title":
+      "en": "Dietary Supplements"
+  - "name": "Herbal_Medicine"
+    "title":
+      "en": "Herbal Medicine"
+  - "name": "Cancer_Alternative_Therapies"
+    "title":
+      "en": "Cancer Alternative Therapies"
+  - "name": "Complementary_and_Integrative_Medicine"
+    "title":
+      "en": "Complementary and Integrative Medicine"
+- "name": "Diagnostic_Tests"
+  "title":
+    "en": "Diagnostic Tests"
+  "terms":
+  - "name": "Liver_Function_Tests"
+    "title":
+      "en": "Liver Function Tests"
+  - "name": "Nuclear_Scans"
+    "title":
+      "en": "Nuclear Scans"
+  - "name": "Hepatitis_Testing"
+    "title":
+      "en": "Hepatitis Testing"
+  - "name": "Genetic_Testing"
+    "title":
+      "en": "Genetic Testing"
+  - "name": "Vital_Signs"
+    "title":
+      "en": "Vital Signs"
+  - "name": "Prenatal_Testing"
+    "title":
+      "en": "Prenatal Testing"
+  - "name": "Thyroid_Tests"
+    "title":
+      "en": "Thyroid Tests"
+  - "name": "Mammography"
+    "title":
+      "en": "Mammography"
+  - "name": "MRI_Scans"
+    "title":
+      "en": "MRI Scans"
+  - "name": "Diagnostic_Imaging"
+    "title":
+      "en": "Diagnostic Imaging"
+  - "name": "CT_Scans"
+    "title":
+      "en": "CT Scans"
+  - "name": "A1C"
+    "title":
+      "en": "A1C"
+  - "name": "Biopsy"
+    "title":
+      "en": "Biopsy"
+  - "name": "Laboratory_Tests"
+    "title":
+      "en": "Laboratory Tests"
+  - "name": "XRays"
+    "title":
+      "en": "X-Rays"
+  - "name": "Colonoscopy"
+    "title":
+      "en": "Colonoscopy"
+  - "name": "Endoscopy"
+    "title":
+      "en": "Endoscopy"
+  - "name": "Metabolic_Panel"
+    "title":
+      "en": "Metabolic Panel"
+  - "name": "Ultrasound"
+    "title":
+      "en": "Ultrasound"
+- "name": "Transplantation_and_Donation"
+  "title":
+    "en": "Transplantation and Donation"
+  "terms":
+  - "name": "Stem_Cells"
+    "title":
+      "en": "Stem Cells"
+  - "name": "Liver_Transplantation"
+    "title":
+      "en": "Liver Transplantation"
+  - "name": "Lung_Transplantation"
+    "title":
+      "en": "Lung Transplantation"
+  - "name": "Pancreas_Transplantation"
+    "title":
+      "en": "Pancreas Transplantation"
+  - "name": "Bone_Marrow_Transplantation"
+    "title":
+      "en": "Bone Marrow Transplantation"
+  - "name": "Heart_Transplantation"
+    "title":
+      "en": "Heart Transplantation"
+  - "name": "Organ_Transplantation"
+    "title":
+      "en": "Organ Transplantation"
+  - "name": "Islet_Cell_Transplantation"
+    "title":
+      "en": "Islet Cell Transplantation"
+  - "name": "Kidney_Transplantation"
+    "title":
+      "en": "Kidney Transplantation"
+  - "name": "Bone_Grafts"
+    "title":
+      "en": "Bone Grafts"
+  - "name": "Organ_Donation"
+    "title":
+      "en": "Organ Donation"
+  - "name": "Blood_Transfusion_and_Donation"
+    "title":
+      "en": "Blood Transfusion and Donation"
+- "name": "Surgery_and_Rehabilitation"
+  "title":
+    "en": "Surgery and Rehabilitation"
+  "terms":
+  - "name": "Pulmonary_Rehabilitation"
+    "title":
+      "en": "Pulmonary Rehabilitation"
+  - "name": "Angioplasty"
+    "title":
+      "en": "Angioplasty"
+  - "name": "Assistive_Devices"
+    "title":
+      "en": "Assistive Devices"
+  - "name": "Laser_Eye_Surgery"
+    "title":
+      "en": "Laser Eye Surgery"
+  - "name": "Plastic_and_Cosmetic_Surgery"
+    "title":
+      "en": "Plastic and Cosmetic Surgery"
+  - "name": "Artificial_Limbs"
+    "title":
+      "en": "Artificial Limbs"
+  - "name": "Hip_Replacement"
+    "title":
+      "en": "Hip Replacement"
+  - "name": "Oxygen_Therapy"
+    "title":
+      "en": "Oxygen Therapy"
+  - "name": "Surgery"
+    "title":
+      "en": "Surgery"
+  - "name": "Mastectomy"
+    "title":
+      "en": "Mastectomy"
+  - "name": "Anesthesia"
+    "title":
+      "en": "Anesthesia"
+  - "name": "Endoscopy"
+    "title":
+      "en": "Endoscopy"
+  - "name": "Weight_Loss_Surgery"
+    "title":
+      "en": "Weight Loss Surgery"
+  - "name": "Stroke_Rehabilitation"
+    "title":
+      "en": "Stroke Rehabilitation"
+  - "name": "Hysterectomy"
+    "title":
+      "en": "Hysterectomy"
+  - "name": "Heart_Surgery"
+    "title":
+      "en": "Heart Surgery"
+  - "name": "Breast_Reconstruction"
+    "title":
+      "en": "Breast Reconstruction"
+  - "name": "Radiation_Therapy"
+    "title":
+      "en": "Radiation Therapy"
+  - "name": "Cardiac_Rehabilitation"
+    "title":
+      "en": "Cardiac Rehabilitation"
+  - "name": "Ostomy"
+    "title":
+      "en": "Ostomy"
+  - "name": "Knee_Replacement"
+    "title":
+      "en": "Knee Replacement"
+  - "name": "After_Surgery"
+    "title":
+      "en": "After Surgery"
+  - "name": "Critical_Care"
+    "title":
+      "en": "Critical Care"
+  - "name": "Rehabilitation"
+    "title":
+      "en": "Rehabilitation"
+  - "name": "Coronary_Artery_Bypass_Surgery"
+    "title":
+      "en": "Coronary Artery Bypass Surgery"
+- "name": "Drug_Therapy"
+  "title":
+    "en": "Drug Therapy"
+  "terms":
+  - "name": "Diabetes_Medicines"
+    "title":
+      "en": "Diabetes Medicines"
+  - "name": "Medication_Errors"
+    "title":
+      "en": "Medication Errors"
+  - "name": "Pain_Relievers"
+    "title":
+      "en": "Pain Relievers"
+  - "name": "OvertheCounter_Medicines"
+    "title":
+      "en": "Over-the-Counter Medicines"
+  - "name": "Cold_and_Cough_Medicines"
+    "title":
+      "en": "Cold and Cough Medicines"
+  - "name": "Cancer_Chemotherapy"
+    "title":
+      "en": "Cancer Chemotherapy"
+  - "name": "Antibiotic_Resistance"
+    "title":
+      "en": "Antibiotic Resistance"
+  - "name": "Blood_Thinners"
+    "title":
+      "en": "Blood Thinners"
+  - "name": "Drug_Reactions"
+    "title":
+      "en": "Drug Reactions"
+  - "name": "Hormone_Replacement_Therapy"
+    "title":
+      "en": "Hormone Replacement Therapy"
+  - "name": "Antibiotics"
+    "title":
+      "en": "Antibiotics"
+  - "name": "HIVAIDS_Medicines"
+    "title":
+      "en": "HIV/AIDS Medicines"
+  - "name": "Antidepressants"
+    "title":
+      "en": "Antidepressants"
+  - "name": "Medicines"
+    "title":
+      "en": "Medicines"
+  - "name": "Medicines_and_Children"
+    "title":
+      "en": "Medicines and Children"
+  - "name": "Drug_Safety"
+    "title":
+      "en": "Drug Safety"
+  - "name": "Blood_Pressure_Medicines"
+    "title":
+      "en": "Blood Pressure Medicines"
+  - "name": "Statins"
+    "title":
+      "en": "Statins"
+  - "name": "Steroids"
+    "title":
+      "en": "Steroids"
+- "name": "Symptoms"
+  "title":
+    "en": "Symptoms"
+  "terms":
+  - "name": "Headache"
+    "title":
+      "en": "Headache"
+  - "name": "Frostbite"
+    "title":
+      "en": "Frostbite"
+  - "name": "Stuttering"
+    "title":
+      "en": "Stuttering"
+  - "name": "Abdominal_Pain"
+    "title":
+      "en": "Abdominal Pain"
+  - "name": "Hives"
+    "title":
+      "en": "Hives"
+  - "name": "Dehydration"
+    "title":
+      "en": "Dehydration"
+  - "name": "Bleeding"
+    "title":
+      "en": "Bleeding"
+  - "name": "Itching"
+    "title":
+      "en": "Itching"
+  - "name": "Fainting"
+    "title":
+      "en": "Fainting"
+  - "name": "Pain"
+    "title":
+      "en": "Pain"
+  - "name": "Heat_Illness"
+    "title":
+      "en": "Heat Illness"
+  - "name": "Bruises"
+    "title":
+      "en": "Bruises"
+  - "name": "Pelvic_Pain"
+    "title":
+      "en": "Pelvic Pain"
+  - "name": "Constipation"
+    "title":
+      "en": "Constipation"
+  - "name": "Motion_Sickness"
+    "title":
+      "en": "Motion Sickness"
+  - "name": "Breathing_Problems"
+    "title":
+      "en": "Breathing Problems"
+  - "name": "Heartburn"
+    "title":
+      "en": "Heartburn"
+  - "name": "Chronic_Pain"
+    "title":
+      "en": "Chronic Pain"
+  - "name": "Sciatica"
+    "title":
+      "en": "Sciatica"
+  - "name": "Jaundice"
+    "title":
+      "en": "Jaundice"
+  - "name": "Edema"
+    "title":
+      "en": "Edema"
+  - "name": "Nausea_and_Vomiting"
+    "title":
+      "en": "Nausea and Vomiting"
+  - "name": "Choking"
+    "title":
+      "en": "Choking"
+  - "name": "Speech_and_Communication_Disorders"
+    "title":
+      "en": "Speech and Communication Disorders"
+  - "name": "Diarrhea"
+    "title":
+      "en": "Diarrhea"
+  - "name": "Fatigue"
+    "title":
+      "en": "Fatigue"
+  - "name": "Rare_Diseases"
+    "title":
+      "en": "Rare Diseases"
+  - "name": "Cough"
+    "title":
+      "en": "Cough"
+  - "name": "Dizziness_and_Vertigo"
+    "title":
+      "en": "Dizziness and Vertigo"
+  - "name": "Fever"
+    "title":
+      "en": "Fever"
+  - "name": "Bad_Breath"
+    "title":
+      "en": "Bad Breath"
+  - "name": "Chest_Pain"
+    "title":
+      "en": "Chest Pain"
+  - "name": "Vaginal_Bleeding"
+    "title":
+      "en": "Vaginal Bleeding"
+  - "name": "Gas"
+    "title":
+      "en": "Gas"
+  - "name": "Raynauds_Disease"
+    "title":
+      "en": "Raynaud's Disease"
+  - "name": "Indigestion"
+    "title":
+      "en": "Indigestion"
+  - "name": "Gastrointestinal_Bleeding"
+    "title":
+      "en": "Gastrointestinal Bleeding"
+  - "name": "Hypothermia"
+    "title":
+      "en": "Hypothermia"
