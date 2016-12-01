@@ -3,13 +3,466 @@
   "en": "MedlinePlus Health and Wellness"
 "author": "MedlinePlus.gov"
 "vocabularies":
+- "name": "Disasters"
+  "title":
+    "en": "Disasters"
+  "terms":
+  - "name": "Biodefense_and_Bioterrorism"
+    "title":
+      "en": "Biodefense and Bioterrorism"
+  - "name": "Chemical_Emergencies"
+    "title":
+      "en": "Chemical Emergencies"
+  - "name": "Coping_with_Disasters"
+    "title":
+      "en": "Coping with Disasters"
+  - "name": "Disaster_Preparation_and_Recovery"
+    "title":
+      "en": "Disaster Preparation and Recovery"
+  - "name": "Earthquakes"
+    "title":
+      "en": "Earthquakes"
+  - "name": "Fires"
+    "title":
+      "en": "Fires"
+  - "name": "Floods"
+    "title":
+      "en": "Floods"
+  - "name": "Hurricanes"
+    "title":
+      "en": "Hurricanes"
+  - "name": "Oil_Spills"
+    "title":
+      "en": "Oil Spills"
+  - "name": "Radiation_Emergencies"
+    "title":
+      "en": "Radiation Emergencies"
+  - "name": "Tornadoes"
+    "title":
+      "en": "Tornadoes"
+  - "name": "Tsunamis"
+    "title":
+      "en": "Tsunamis"
+  - "name": "Volcanoes"
+    "title":
+      "en": "Volcanoes"
+  - "name": "Winter_Weather_Emergencies"
+    "title":
+      "en": "Winter Weather Emergencies"
+- "name": "Fitness_and_Exercise"
+  "title":
+    "en": "Fitness and Exercise"
+  "terms":
+  - "name": "Exercise_and_Physical_Fitness"
+    "title":
+      "en": "Exercise and Physical Fitness"
+  - "name": "Exercise_for_Children"
+    "title":
+      "en": "Exercise for Children"
+  - "name": "Exercise_for_Seniors"
+    "title":
+      "en": "Exercise for Seniors"
+  - "name": "Sports_Fitness"
+    "title":
+      "en": "Sports Fitness"
+  - "name": "Sports_Injuries"
+    "title":
+      "en": "Sports Injuries"
+  - "name": "Sports_Safety"
+    "title":
+      "en": "Sports Safety"
+- "name": "Food_and_Nutrition"
+  "title":
+    "en": "Food and Nutrition"
+  "terms":
+  - "name": "Alcohol"
+    "title":
+      "en": "Alcohol"
+  - "name": "Antioxidants"
+    "title":
+      "en": "Antioxidants"
+  - "name": "B_Vitamins"
+    "title":
+      "en": "B Vitamins"
+  - "name": "Body_Weight"
+    "title":
+      "en": "Body Weight"
+  - "name": "Breastfeeding"
+    "title":
+      "en": "Breastfeeding"
+  - "name": "Caffeine"
+    "title":
+      "en": "Caffeine"
+  - "name": "Calcium"
+    "title":
+      "en": "Calcium"
+  - "name": "Carbohydrates"
+    "title":
+      "en": "Carbohydrates"
+  - "name": "Child_Nutrition"
+    "title":
+      "en": "Child Nutrition"
+  - "name": "Cholesterol"
+    "title":
+      "en": "Cholesterol"
+  - "name": "DASH_Diet"
+    "title":
+      "en": "DASH Diet"
+  - "name": "Diabetic_Diet"
+    "title":
+      "en": "Diabetic Diet"
+  - "name": "Dietary_Fats"
+    "title":
+      "en": "Dietary Fats"
+  - "name": "Dietary_Fiber"
+    "title":
+      "en": "Dietary Fiber"
+  - "name": "Dietary_Proteins"
+    "title":
+      "en": "Dietary Proteins"
+  - "name": "Dietary_Supplements"
+    "title":
+      "en": "Dietary Supplements"
+  - "name": "Diets"
+    "title":
+      "en": "Diets"
+  - "name": "Drinking_Water"
+    "title":
+      "en": "Drinking Water"
+  - "name": "Eating_Disorders"
+    "title":
+      "en": "Eating Disorders"
+  - "name": "Fluid_and_Electrolyte_Balance"
+    "title":
+      "en": "Fluid and Electrolyte Balance"
+  - "name": "Folic_Acid"
+    "title":
+      "en": "Folic Acid"
+  - "name": "Food_Allergy"
+    "title":
+      "en": "Food Allergy"
+  - "name": "Food_Labeling"
+    "title":
+      "en": "Food Labeling"
+  - "name": "Food_Safety"
+    "title":
+      "en": "Food Safety"
+  - "name": "Foodborne_Illness"
+    "title":
+      "en": "Foodborne Illness"
+  - "name": "Infant_and_Newborn_Nutrition"
+    "title":
+      "en": "Infant and Newborn Nutrition"
+  - "name": "Iron"
+    "title":
+      "en": "Iron"
+  - "name": "Malabsorption_Syndromes"
+    "title":
+      "en": "Malabsorption Syndromes"
+  - "name": "Malnutrition"
+    "title":
+      "en": "Malnutrition"
+  - "name": "Minerals"
+    "title":
+      "en": "Minerals"
+  - "name": "Nutrition"
+    "title":
+      "en": "Nutrition"
+  - "name": "Nutrition_for_Seniors"
+    "title":
+      "en": "Nutrition for Seniors"
+  - "name": "Nutritional_Support"
+    "title":
+      "en": "Nutritional Support"
+  - "name": "Obesity"
+    "title":
+      "en": "Obesity"
+  - "name": "Obesity_in_Children"
+    "title":
+      "en": "Obesity in Children"
+  - "name": "Potassium"
+    "title":
+      "en": "Potassium"
+  - "name": "Pregnancy_and_Nutrition"
+    "title":
+      "en": "Pregnancy and Nutrition"
+  - "name": "Sodium"
+    "title":
+      "en": "Sodium"
+  - "name": "Toddler_Nutrition"
+    "title":
+      "en": "Toddler Nutrition"
+  - "name": "Triglycerides"
+    "title":
+      "en": "Triglycerides"
+  - "name": "Vegetarian_Diet"
+    "title":
+      "en": "Vegetarian Diet"
+  - "name": "Vitamin_A"
+    "title":
+      "en": "Vitamin A"
+  - "name": "Vitamin_C"
+    "title":
+      "en": "Vitamin C"
+  - "name": "Vitamin_D"
+    "title":
+      "en": "Vitamin D"
+  - "name": "Vitamin_E"
+    "title":
+      "en": "Vitamin E"
+  - "name": "Vitamin_K"
+    "title":
+      "en": "Vitamin K"
+  - "name": "Vitamins"
+    "title":
+      "en": "Vitamins"
+  - "name": "Weight_Control"
+    "title":
+      "en": "Weight Control"
+- "name": "Health_System"
+  "title":
+    "en": "Health System"
+  "terms":
+  - "name": "Assisted_Living"
+    "title":
+      "en": "Assisted Living"
+  - "name": "Caregivers"
+    "title":
+      "en": "Caregivers"
+  - "name": "Choosing_a_Doctor_or_Health_Care_Service"
+    "title":
+      "en": "Choosing a Doctor or Health Care Service"
+  - "name": "Emergency_Medical_Services"
+    "title":
+      "en": "Emergency Medical Services"
+  - "name": "Financial_Assistance"
+    "title":
+      "en": "Financial Assistance"
+  - "name": "Health_Disparities"
+    "title":
+      "en": "Health Disparities"
+  - "name": "Health_Facilities"
+    "title":
+      "en": "Health Facilities"
+  - "name": "Health_Fraud"
+    "title":
+      "en": "Health Fraud"
+  - "name": "Health_Insurance"
+    "title":
+      "en": "Health Insurance"
+  - "name": "Health_Occupations"
+    "title":
+      "en": "Health Occupations"
+  - "name": "Health_Statistics"
+    "title":
+      "en": "Health Statistics"
+  - "name": "Home_Care_Services"
+    "title":
+      "en": "Home Care Services"
+  - "name": "Hospice_Care"
+    "title":
+      "en": "Hospice Care"
+  - "name": "International_Health"
+    "title":
+      "en": "International Health"
+  - "name": "Managed_Care"
+    "title":
+      "en": "Managed Care"
+  - "name": "Medicaid"
+    "title":
+      "en": "Medicaid"
+  - "name": "Medical_Ethics"
+    "title":
+      "en": "Medical Ethics"
+  - "name": "Medicare"
+    "title":
+      "en": "Medicare"
+  - "name": "Medicare_Prescription_Drug_Coverage"
+    "title":
+      "en": "Medicare Prescription Drug Coverage"
+  - "name": "Nursing_Homes"
+    "title":
+      "en": "Nursing Homes"
+  - "name": "Occupational_Health_for_Healthcare_Providers"
+    "title":
+      "en": "Occupational Health for Healthcare Providers"
+  - "name": "Palliative_Care"
+    "title":
+      "en": "Palliative Care"
+  - "name": "Patient_Rights"
+    "title":
+      "en": "Patient Rights"
+  - "name": "Patient_Safety"
+    "title":
+      "en": "Patient Safety"
+  - "name": "Personal_Health_Records"
+    "title":
+      "en": "Personal Health Records"
+  - "name": "Rural_Health_Concerns"
+    "title":
+      "en": "Rural Health Concerns"
+  - "name": "Talking_With_Your_Doctor"
+    "title":
+      "en": "Talking With Your Doctor"
+  - "name": "Veterans_and_Military_Health"
+    "title":
+      "en": "Veterans and Military Health"
+- "name": "Personal_Health_Issues"
+  "title":
+    "en": "Personal Health Issues"
+  "terms":
+  - "name": "Advance_Directives"
+    "title":
+      "en": "Advance Directives"
+  - "name": "Choosing_a_Doctor_or_Health_Care_Service"
+    "title":
+      "en": "Choosing a Doctor or Health Care Service"
+  - "name": "Clinical_Trials"
+    "title":
+      "en": "Clinical Trials"
+  - "name": "End_of_Life_Issues"
+    "title":
+      "en": "End of Life Issues"
+  - "name": "Evaluating_Health_Information"
+    "title":
+      "en": "Evaluating Health Information"
+  - "name": "Health_Literacy"
+    "title":
+      "en": "Health Literacy"
+  - "name": "Medical_Ethics"
+    "title":
+      "en": "Medical Ethics"
+  - "name": "Palliative_Care"
+    "title":
+      "en": "Palliative Care"
+  - "name": "Patient_Rights"
+    "title":
+      "en": "Patient Rights"
+  - "name": "Patient_Safety"
+    "title":
+      "en": "Patient Safety"
+  - "name": "Personal_Health_Records"
+    "title":
+      "en": "Personal Health Records"
+  - "name": "Talking_With_Your_Doctor"
+    "title":
+      "en": "Talking With Your Doctor"
+  - "name": "Understanding_Medical_Research"
+    "title":
+      "en": "Understanding Medical Research"
+- "name": "Safety_Issues"
+  "title":
+    "en": "Safety Issues"
+  "terms":
+  - "name": "Barotrauma"
+    "title":
+      "en": "Barotrauma"
+  - "name": "Child_Safety"
+    "title":
+      "en": "Child Safety"
+  - "name": "Drug_Safety"
+    "title":
+      "en": "Drug Safety"
+  - "name": "Ergonomics"
+    "title":
+      "en": "Ergonomics"
+  - "name": "Falls"
+    "title":
+      "en": "Falls"
+  - "name": "Farm_Health_and_Safety"
+    "title":
+      "en": "Farm Health and Safety"
+  - "name": "Fire_Safety"
+    "title":
+      "en": "Fire Safety"
+  - "name": "First_Aid"
+    "title":
+      "en": "First Aid"
+  - "name": "Food_Safety"
+    "title":
+      "en": "Food Safety"
+  - "name": "Gun_Safety"
+    "title":
+      "en": "Gun Safety"
+  - "name": "Household_Products"
+    "title":
+      "en": "Household Products"
+  - "name": "Impaired_Driving"
+    "title":
+      "en": "Impaired Driving"
+  - "name": "Infection_Control"
+    "title":
+      "en": "Infection Control"
+  - "name": "Internet_Safety"
+    "title":
+      "en": "Internet Safety"
+  - "name": "Medical_Device_Safety"
+    "title":
+      "en": "Medical Device Safety"
+  - "name": "Motor_Vehicle_Safety"
+    "title":
+      "en": "Motor Vehicle Safety"
+  - "name": "Occupational_Health"
+    "title":
+      "en": "Occupational Health"
+  - "name": "Occupational_Health_for_Healthcare_Providers"
+    "title":
+      "en": "Occupational Health for Healthcare Providers"
+  - "name": "Poisoning"
+    "title":
+      "en": "Poisoning"
+  - "name": "Safety"
+    "title":
+      "en": "Safety"
+  - "name": "Sports_Safety"
+    "title":
+      "en": "Sports Safety"
+  - "name": "Water_Safety_Recreational"
+    "title":
+      "en": "Water Safety (Recreational)"
+  - "name": "Wounds_and_Injuries"
+    "title":
+      "en": "Wounds and Injuries"
 - "name": "Sexual_Health_Issues"
   "title":
     "en": "Sexual Health Issues"
   "terms":
+  - "name": "Child_Sexual_Abuse"
+    "title":
+      "en": "Child Sexual Abuse"
+  - "name": "Chlamydia_Infections"
+    "title":
+      "en": "Chlamydia Infections"
   - "name": "Erectile_Dysfunction"
     "title":
       "en": "Erectile Dysfunction"
+  - "name": "Gay_Lesbian_Bisexual_and_Transgender_Health"
+    "title":
+      "en": "Gay, Lesbian, Bisexual, and Transgender Health"
+  - "name": "Genital_Herpes"
+    "title":
+      "en": "Genital Herpes"
+  - "name": "Genital_Warts"
+    "title":
+      "en": "Genital Warts"
+  - "name": "Gonorrhea"
+    "title":
+      "en": "Gonorrhea"
+  - "name": "HPV"
+    "title":
+      "en": "HPV"
+  - "name": "Herpes_Simplex"
+    "title":
+      "en": "Herpes Simplex"
+  - "name": "Lice"
+    "title":
+      "en": "Lice"
+  - "name": "Pelvic_Pain"
+    "title":
+      "en": "Pelvic Pain"
+  - "name": "Penis_Disorders"
+    "title":
+      "en": "Penis Disorders"
   - "name": "Puberty"
     "title":
       "en": "Puberty"
@@ -19,638 +472,185 @@
   - "name": "Sexual_Health"
     "title":
       "en": "Sexual Health"
-  - "name": "Teen_Sexual_Health"
-    "title":
-      "en": "Teen Sexual Health"
-  - "name": "Gonorrhea"
-    "title":
-      "en": "Gonorrhea"
-  - "name": "Penis_Disorders"
-    "title":
-      "en": "Penis Disorders"
-  - "name": "HPV"
-    "title":
-      "en": "HPV"
-  - "name": "Herpes_Simplex"
-    "title":
-      "en": "Herpes Simplex"
-  - "name": "Sexual_Problems_in_Women"
-    "title":
-      "en": "Sexual Problems in Women"
   - "name": "Sexual_Problems_in_Men"
     "title":
       "en": "Sexual Problems in Men"
+  - "name": "Sexual_Problems_in_Women"
+    "title":
+      "en": "Sexual Problems in Women"
   - "name": "Sexually_Transmitted_Diseases"
     "title":
       "en": "Sexually Transmitted Diseases"
-  - "name": "Child_Sexual_Abuse"
-    "title":
-      "en": "Child Sexual Abuse"
-  - "name": "Genital_Warts"
-    "title":
-      "en": "Genital Warts"
-  - "name": "Trichomoniasis"
-    "title":
-      "en": "Trichomoniasis"
-  - "name": "Chlamydia_Infections"
-    "title":
-      "en": "Chlamydia Infections"
   - "name": "Syphilis"
     "title":
       "en": "Syphilis"
-  - "name": "Genital_Herpes"
+  - "name": "Teen_Sexual_Health"
     "title":
-      "en": "Genital Herpes"
+      "en": "Teen Sexual Health"
   - "name": "Testicular_Disorders"
     "title":
       "en": "Testicular Disorders"
-  - "name": "Gay_Lesbian_Bisexual_and_Transgender_Health"
+  - "name": "Trichomoniasis"
     "title":
-      "en": "Gay, Lesbian, Bisexual, and Transgender Health"
-  - "name": "Lice"
-    "title":
-      "en": "Lice"
-  - "name": "Pelvic_Pain"
-    "title":
-      "en": "Pelvic Pain"
-- "name": "Personal_Health_Issues"
-  "title":
-    "en": "Personal Health Issues"
-  "terms":
-  - "name": "Understanding_Medical_Research"
-    "title":
-      "en": "Understanding Medical Research"
-  - "name": "Patient_Rights"
-    "title":
-      "en": "Patient Rights"
-  - "name": "Health_Literacy"
-    "title":
-      "en": "Health Literacy"
-  - "name": "Medical_Ethics"
-    "title":
-      "en": "Medical Ethics"
-  - "name": "Palliative_Care"
-    "title":
-      "en": "Palliative Care"
-  - "name": "Evaluating_Health_Information"
-    "title":
-      "en": "Evaluating Health Information"
-  - "name": "Clinical_Trials"
-    "title":
-      "en": "Clinical Trials"
-  - "name": "Talking_With_Your_Doctor"
-    "title":
-      "en": "Talking With Your Doctor"
-  - "name": "Personal_Health_Records"
-    "title":
-      "en": "Personal Health Records"
-  - "name": "End_of_Life_Issues"
-    "title":
-      "en": "End of Life Issues"
-  - "name": "Patient_Safety"
-    "title":
-      "en": "Patient Safety"
-  - "name": "Advance_Directives"
-    "title":
-      "en": "Advance Directives"
-  - "name": "Choosing_a_Doctor_or_Health_Care_Service"
-    "title":
-      "en": "Choosing a Doctor or Health Care Service"
-- "name": "Fitness_and_Exercise"
-  "title":
-    "en": "Fitness and Exercise"
-  "terms":
-  - "name": "Exercise_and_Physical_Fitness"
-    "title":
-      "en": "Exercise and Physical Fitness"
-  - "name": "Exercise_for_Seniors"
-    "title":
-      "en": "Exercise for Seniors"
-  - "name": "Sports_Injuries"
-    "title":
-      "en": "Sports Injuries"
-  - "name": "Sports_Safety"
-    "title":
-      "en": "Sports Safety"
-  - "name": "Exercise_for_Children"
-    "title":
-      "en": "Exercise for Children"
-  - "name": "Sports_Fitness"
-    "title":
-      "en": "Sports Fitness"
-- "name": "Wellness_and_Lifestyle"
-  "title":
-    "en": "Wellness and Lifestyle"
-  "terms":
-  - "name": "Vital_Signs"
-    "title":
-      "en": "Vital Signs"
-  - "name": "College_Health"
-    "title":
-      "en": "College Health"
-  - "name": "Health_Literacy"
-    "title":
-      "en": "Health Literacy"
-  - "name": "Mobility_Aids"
-    "title":
-      "en": "Mobility Aids"
-  - "name": "Mental_Health"
-    "title":
-      "en": "Mental Health"
-  - "name": "Exercise_for_Children"
-    "title":
-      "en": "Exercise for Children"
-  - "name": "Womens_Health_Checkup"
-    "title":
-      "en": "Women's Health Checkup"
-  - "name": "Health_Checkup"
-    "title":
-      "en": "Health Checkup"
-  - "name": "Health_Screening"
-    "title":
-      "en": "Health Screening"
-  - "name": "Exercise_for_Seniors"
-    "title":
-      "en": "Exercise for Seniors"
-  - "name": "Healthy_Living"
-    "title":
-      "en": "Healthy Living"
-  - "name": "Heart_DiseasesPrevention"
-    "title":
-      "en": "Heart Diseases--Prevention"
-  - "name": "Complementary_and_Integrative_Medicine"
-    "title":
-      "en": "Complementary and Integrative Medicine"
-  - "name": "Pet_Health"
-    "title":
-      "en": "Pet Health"
-  - "name": "Nutrition"
-    "title":
-      "en": "Nutrition"
-  - "name": "Occupational_Health"
-    "title":
-      "en": "Occupational Health"
-  - "name": "Sexual_Health"
-    "title":
-      "en": "Sexual Health"
-  - "name": "Evaluating_Health_Information"
-    "title":
-      "en": "Evaluating Health Information"
-  - "name": "Herbal_Medicine"
-    "title":
-      "en": "Herbal Medicine"
-  - "name": "Diets"
-    "title":
-      "en": "Diets"
-  - "name": "Dental_Health"
-    "title":
-      "en": "Dental Health"
-  - "name": "Ergonomics"
-    "title":
-      "en": "Ergonomics"
-  - "name": "Family_History"
-    "title":
-      "en": "Family History"
-  - "name": "Exercise_and_Physical_Fitness"
-    "title":
-      "en": "Exercise and Physical Fitness"
-  - "name": "Healthy_Aging"
-    "title":
-      "en": "Healthy Aging"
-  - "name": "Sports_Injuries"
-    "title":
-      "en": "Sports Injuries"
-  - "name": "Sports_Fitness"
-    "title":
-      "en": "Sports Fitness"
-  - "name": "Travelers_Health"
-    "title":
-      "en": "Traveler's Health"
-- "name": "Disasters"
-  "title":
-    "en": "Disasters"
-  "terms":
-  - "name": "Winter_Weather_Emergencies"
-    "title":
-      "en": "Winter Weather Emergencies"
-  - "name": "Disaster_Preparation_and_Recovery"
-    "title":
-      "en": "Disaster Preparation and Recovery"
-  - "name": "Hurricanes"
-    "title":
-      "en": "Hurricanes"
-  - "name": "Oil_Spills"
-    "title":
-      "en": "Oil Spills"
-  - "name": "Floods"
-    "title":
-      "en": "Floods"
-  - "name": "Radiation_Emergencies"
-    "title":
-      "en": "Radiation Emergencies"
-  - "name": "Chemical_Emergencies"
-    "title":
-      "en": "Chemical Emergencies"
-  - "name": "Earthquakes"
-    "title":
-      "en": "Earthquakes"
-  - "name": "Fires"
-    "title":
-      "en": "Fires"
-  - "name": "Coping_with_Disasters"
-    "title":
-      "en": "Coping with Disasters"
-  - "name": "Biodefense_and_Bioterrorism"
-    "title":
-      "en": "Biodefense and Bioterrorism"
-  - "name": "Tornadoes"
-    "title":
-      "en": "Tornadoes"
-  - "name": "Volcanoes"
-    "title":
-      "en": "Volcanoes"
-  - "name": "Tsunamis"
-    "title":
-      "en": "Tsunamis"
+      "en": "Trichomoniasis"
 - "name": "SocialFamily_Issues"
   "title":
     "en": "Social/Family Issues"
   "terms":
-  - "name": "Bullying"
-    "title":
-      "en": "Bullying"
-  - "name": "Caregivers"
-    "title":
-      "en": "Caregivers"
-  - "name": "Parenting"
-    "title":
-      "en": "Parenting"
-  - "name": "Alzheimers_Caregivers"
-    "title":
-      "en": "Alzheimer's Caregivers"
-  - "name": "Bereavement"
-    "title":
-      "en": "Bereavement"
-  - "name": "Understanding_Medical_Research"
-    "title":
-      "en": "Understanding Medical Research"
-  - "name": "Elder_Abuse"
-    "title":
-      "en": "Elder Abuse"
-  - "name": "Family_Issues"
-    "title":
-      "en": "Family Issues"
-  - "name": "Sexual_Assault"
-    "title":
-      "en": "Sexual Assault"
-  - "name": "Disabilities"
-    "title":
-      "en": "Disabilities"
-  - "name": "Medical_Ethics"
-    "title":
-      "en": "Medical Ethics"
-  - "name": "Teen_Violence"
-    "title":
-      "en": "Teen Violence"
-  - "name": "Suicide"
-    "title":
-      "en": "Suicide"
-  - "name": "Financial_Assistance"
-    "title":
-      "en": "Financial Assistance"
-  - "name": "Child_Abuse"
-    "title":
-      "en": "Child Abuse"
-  - "name": "Divorce"
-    "title":
-      "en": "Divorce"
-  - "name": "Talking_With_Your_Doctor"
-    "title":
-      "en": "Talking With Your Doctor"
-  - "name": "Personal_Health_Records"
-    "title":
-      "en": "Personal Health Records"
-  - "name": "End_of_Life_Issues"
-    "title":
-      "en": "End of Life Issues"
-  - "name": "Homeless_Health_Concerns"
-    "title":
-      "en": "Homeless Health Concerns"
-  - "name": "Domestic_Violence"
-    "title":
-      "en": "Domestic Violence"
   - "name": "Adoption"
     "title":
       "en": "Adoption"
   - "name": "Advance_Directives"
     "title":
       "en": "Advance Directives"
-- "name": "Food_and_Nutrition"
-  "title":
-    "en": "Food and Nutrition"
-  "terms":
-  - "name": "Obesity_in_Children"
+  - "name": "Alzheimers_Caregivers"
     "title":
-      "en": "Obesity in Children"
-  - "name": "Child_Nutrition"
+      "en": "Alzheimer's Caregivers"
+  - "name": "Bereavement"
     "title":
-      "en": "Child Nutrition"
-  - "name": "Body_Weight"
+      "en": "Bereavement"
+  - "name": "Bullying"
     "title":
-      "en": "Body Weight"
-  - "name": "Calcium"
-    "title":
-      "en": "Calcium"
-  - "name": "Malabsorption_Syndromes"
-    "title":
-      "en": "Malabsorption Syndromes"
-  - "name": "Alcohol"
-    "title":
-      "en": "Alcohol"
-  - "name": "Iron"
-    "title":
-      "en": "Iron"
-  - "name": "Minerals"
-    "title":
-      "en": "Minerals"
-  - "name": "Antioxidants"
-    "title":
-      "en": "Antioxidants"
-  - "name": "Eating_Disorders"
-    "title":
-      "en": "Eating Disorders"
-  - "name": "Vitamin_A"
-    "title":
-      "en": "Vitamin A"
-  - "name": "Vegetarian_Diet"
-    "title":
-      "en": "Vegetarian Diet"
-  - "name": "Vitamin_D"
-    "title":
-      "en": "Vitamin D"
-  - "name": "Dietary_Proteins"
-    "title":
-      "en": "Dietary Proteins"
-  - "name": "Vitamin_E"
-    "title":
-      "en": "Vitamin E"
-  - "name": "Dietary_Fats"
-    "title":
-      "en": "Dietary Fats"
-  - "name": "Infant_and_Newborn_Nutrition"
-    "title":
-      "en": "Infant and Newborn Nutrition"
-  - "name": "Vitamin_C"
-    "title":
-      "en": "Vitamin C"
-  - "name": "Dietary_Fiber"
-    "title":
-      "en": "Dietary Fiber"
-  - "name": "Drinking_Water"
-    "title":
-      "en": "Drinking Water"
-  - "name": "Malnutrition"
-    "title":
-      "en": "Malnutrition"
-  - "name": "DASH_Diet"
-    "title":
-      "en": "DASH Diet"
-  - "name": "Caffeine"
-    "title":
-      "en": "Caffeine"
-  - "name": "Vitamin_K"
-    "title":
-      "en": "Vitamin K"
-  - "name": "Folic_Acid"
-    "title":
-      "en": "Folic Acid"
-  - "name": "Carbohydrates"
-    "title":
-      "en": "Carbohydrates"
-  - "name": "Obesity"
-    "title":
-      "en": "Obesity"
-  - "name": "Food_Labeling"
-    "title":
-      "en": "Food Labeling"
-  - "name": "Nutrition"
-    "title":
-      "en": "Nutrition"
-  - "name": "Nutrition_for_Seniors"
-    "title":
-      "en": "Nutrition for Seniors"
-  - "name": "Toddler_Nutrition"
-    "title":
-      "en": "Toddler Nutrition"
-  - "name": "Fluid_and_Electrolyte_Balance"
-    "title":
-      "en": "Fluid and Electrolyte Balance"
-  - "name": "Food_Safety"
-    "title":
-      "en": "Food Safety"
-  - "name": "Food_Allergy"
-    "title":
-      "en": "Food Allergy"
-  - "name": "Triglycerides"
-    "title":
-      "en": "Triglycerides"
-  - "name": "Weight_Control"
-    "title":
-      "en": "Weight Control"
-  - "name": "Cholesterol"
-    "title":
-      "en": "Cholesterol"
-  - "name": "Vitamins"
-    "title":
-      "en": "Vitamins"
-  - "name": "Diets"
-    "title":
-      "en": "Diets"
-  - "name": "B_Vitamins"
-    "title":
-      "en": "B Vitamins"
-  - "name": "Pregnancy_and_Nutrition"
-    "title":
-      "en": "Pregnancy and Nutrition"
-  - "name": "Foodborne_Illness"
-    "title":
-      "en": "Foodborne Illness"
-  - "name": "Sodium"
-    "title":
-      "en": "Sodium"
-  - "name": "Breastfeeding"
-    "title":
-      "en": "Breastfeeding"
-  - "name": "Diabetic_Diet"
-    "title":
-      "en": "Diabetic Diet"
-  - "name": "Nutritional_Support"
-    "title":
-      "en": "Nutritional Support"
-  - "name": "Dietary_Supplements"
-    "title":
-      "en": "Dietary Supplements"
-  - "name": "Potassium"
-    "title":
-      "en": "Potassium"
-- "name": "Health_System"
-  "title":
-    "en": "Health System"
-  "terms":
+      "en": "Bullying"
   - "name": "Caregivers"
     "title":
       "en": "Caregivers"
-  - "name": "Nursing_Homes"
+  - "name": "Child_Abuse"
     "title":
-      "en": "Nursing Homes"
-  - "name": "Occupational_Health_for_Healthcare_Providers"
+      "en": "Child Abuse"
+  - "name": "Disabilities"
     "title":
-      "en": "Occupational Health for Healthcare Providers"
-  - "name": "Hospice_Care"
+      "en": "Disabilities"
+  - "name": "Divorce"
     "title":
-      "en": "Hospice Care"
-  - "name": "Patient_Rights"
+      "en": "Divorce"
+  - "name": "Domestic_Violence"
     "title":
-      "en": "Patient Rights"
-  - "name": "Medical_Ethics"
+      "en": "Domestic Violence"
+  - "name": "Elder_Abuse"
     "title":
-      "en": "Medical Ethics"
-  - "name": "Palliative_Care"
+      "en": "Elder Abuse"
+  - "name": "End_of_Life_Issues"
     "title":
-      "en": "Palliative Care"
+      "en": "End of Life Issues"
+  - "name": "Family_Issues"
+    "title":
+      "en": "Family Issues"
   - "name": "Financial_Assistance"
     "title":
       "en": "Financial Assistance"
-  - "name": "Talking_With_Your_Doctor"
+  - "name": "Homeless_Health_Concerns"
     "title":
-      "en": "Talking With Your Doctor"
-  - "name": "Veterans_and_Military_Health"
+      "en": "Homeless Health Concerns"
+  - "name": "Medical_Ethics"
     "title":
-      "en": "Veterans and Military Health"
-  - "name": "Patient_Safety"
+      "en": "Medical Ethics"
+  - "name": "Parenting"
     "title":
-      "en": "Patient Safety"
-  - "name": "Medicaid"
-    "title":
-      "en": "Medicaid"
-  - "name": "Choosing_a_Doctor_or_Health_Care_Service"
-    "title":
-      "en": "Choosing a Doctor or Health Care Service"
-  - "name": "Health_Insurance"
-    "title":
-      "en": "Health Insurance"
-  - "name": "Health_Disparities"
-    "title":
-      "en": "Health Disparities"
-  - "name": "Medicare"
-    "title":
-      "en": "Medicare"
-  - "name": "International_Health"
-    "title":
-      "en": "International Health"
-  - "name": "Health_Statistics"
-    "title":
-      "en": "Health Statistics"
-  - "name": "Home_Care_Services"
-    "title":
-      "en": "Home Care Services"
-  - "name": "Health_Facilities"
-    "title":
-      "en": "Health Facilities"
+      "en": "Parenting"
   - "name": "Personal_Health_Records"
     "title":
       "en": "Personal Health Records"
-  - "name": "Medicare_Prescription_Drug_Coverage"
+  - "name": "Sexual_Assault"
     "title":
-      "en": "Medicare Prescription Drug Coverage"
-  - "name": "Health_Occupations"
+      "en": "Sexual Assault"
+  - "name": "Suicide"
     "title":
-      "en": "Health Occupations"
-  - "name": "Managed_Care"
+      "en": "Suicide"
+  - "name": "Talking_With_Your_Doctor"
     "title":
-      "en": "Managed Care"
-  - "name": "Rural_Health_Concerns"
+      "en": "Talking With Your Doctor"
+  - "name": "Teen_Violence"
     "title":
-      "en": "Rural Health Concerns"
-  - "name": "Emergency_Medical_Services"
+      "en": "Teen Violence"
+  - "name": "Understanding_Medical_Research"
     "title":
-      "en": "Emergency Medical Services"
-  - "name": "Assisted_Living"
-    "title":
-      "en": "Assisted Living"
-  - "name": "Health_Fraud"
-    "title":
-      "en": "Health Fraud"
-- "name": "Safety_Issues"
+      "en": "Understanding Medical Research"
+- "name": "Wellness_and_Lifestyle"
   "title":
-    "en": "Safety Issues"
+    "en": "Wellness and Lifestyle"
   "terms":
-  - "name": "Internet_Safety"
+  - "name": "College_Health"
     "title":
-      "en": "Internet Safety"
-  - "name": "Gun_Safety"
+      "en": "College Health"
+  - "name": "Complementary_and_Integrative_Medicine"
     "title":
-      "en": "Gun Safety"
-  - "name": "Occupational_Health_for_Healthcare_Providers"
+      "en": "Complementary and Integrative Medicine"
+  - "name": "Dental_Health"
     "title":
-      "en": "Occupational Health for Healthcare Providers"
-  - "name": "Occupational_Health"
+      "en": "Dental Health"
+  - "name": "Diets"
     "title":
-      "en": "Occupational Health"
-  - "name": "Medical_Device_Safety"
-    "title":
-      "en": "Medical Device Safety"
-  - "name": "Food_Safety"
-    "title":
-      "en": "Food Safety"
-  - "name": "Infection_Control"
-    "title":
-      "en": "Infection Control"
-  - "name": "First_Aid"
-    "title":
-      "en": "First Aid"
-  - "name": "Water_Safety_Recreational"
-    "title":
-      "en": "Water Safety (Recreational)"
-  - "name": "Household_Products"
-    "title":
-      "en": "Household Products"
-  - "name": "Falls"
-    "title":
-      "en": "Falls"
-  - "name": "Wounds_and_Injuries"
-    "title":
-      "en": "Wounds and Injuries"
+      "en": "Diets"
   - "name": "Ergonomics"
     "title":
       "en": "Ergonomics"
-  - "name": "Fire_Safety"
+  - "name": "Evaluating_Health_Information"
     "title":
-      "en": "Fire Safety"
-  - "name": "Impaired_Driving"
+      "en": "Evaluating Health Information"
+  - "name": "Exercise_and_Physical_Fitness"
     "title":
-      "en": "Impaired Driving"
-  - "name": "Drug_Safety"
+      "en": "Exercise and Physical Fitness"
+  - "name": "Exercise_for_Children"
     "title":
-      "en": "Drug Safety"
-  - "name": "Sports_Safety"
+      "en": "Exercise for Children"
+  - "name": "Exercise_for_Seniors"
     "title":
-      "en": "Sports Safety"
-  - "name": "Poisoning"
+      "en": "Exercise for Seniors"
+  - "name": "Family_History"
     "title":
-      "en": "Poisoning"
-  - "name": "Motor_Vehicle_Safety"
+      "en": "Family History"
+  - "name": "Health_Checkup"
     "title":
-      "en": "Motor Vehicle Safety"
-  - "name": "Safety"
+      "en": "Health Checkup"
+  - "name": "Health_Literacy"
     "title":
-      "en": "Safety"
-  - "name": "Child_Safety"
+      "en": "Health Literacy"
+  - "name": "Health_Screening"
     "title":
-      "en": "Child Safety"
-  - "name": "Farm_Health_and_Safety"
+      "en": "Health Screening"
+  - "name": "Healthy_Aging"
     "title":
-      "en": "Farm Health and Safety"
-  - "name": "Barotrauma"
+      "en": "Healthy Aging"
+  - "name": "Healthy_Living"
     "title":
-      "en": "Barotrauma"
+      "en": "Healthy Living"
+  - "name": "Heart_DiseasesPrevention"
+    "title":
+      "en": "Heart Diseases--Prevention"
+  - "name": "Herbal_Medicine"
+    "title":
+      "en": "Herbal Medicine"
+  - "name": "Mental_Health"
+    "title":
+      "en": "Mental Health"
+  - "name": "Mobility_Aids"
+    "title":
+      "en": "Mobility Aids"
+  - "name": "Nutrition"
+    "title":
+      "en": "Nutrition"
+  - "name": "Occupational_Health"
+    "title":
+      "en": "Occupational Health"
+  - "name": "Pet_Health"
+    "title":
+      "en": "Pet Health"
+  - "name": "Sexual_Health"
+    "title":
+      "en": "Sexual Health"
+  - "name": "Sports_Fitness"
+    "title":
+      "en": "Sports Fitness"
+  - "name": "Sports_Injuries"
+    "title":
+      "en": "Sports Injuries"
+  - "name": "Travelers_Health"
+    "title":
+      "en": "Traveler's Health"
+  - "name": "Vital_Signs"
+    "title":
+      "en": "Vital Signs"
+  - "name": "Womens_Health_Checkup"
+    "title":
+      "en": "Women's Health Checkup"
